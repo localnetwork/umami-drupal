@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '4e022e7e4cb82ee6c9f3b8e9c2ad92b8716d0394',
+        'reference' => '428f7f30c57f4f040e70de86ce57cc4bcbdeff03',
         'name' => 'drupal/recommended-project',
         'dev' => true,
     ),
@@ -179,6 +179,15 @@
             'install_path' => __DIR__ . '/../doctrine/reflection',
             'aliases' => array(),
             'reference' => '1034e5e71f89978b80f9c1570e7226f6c3b9b6fb',
+            'dev_requirement' => false,
+        ),
+        'drupal/backup_migrate' => array(
+            'pretty_version' => '5.0.2',
+            'version' => '5.0.2.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../web/modules/contrib/backup_migrate',
+            'aliases' => array(),
+            'reference' => '5.0.2',
             'dev_requirement' => false,
         ),
         'drupal/consumers' => array(
@@ -463,7 +472,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '4e022e7e4cb82ee6c9f3b8e9c2ad92b8716d0394',
+            'reference' => '428f7f30c57f4f040e70de86ce57cc4bcbdeff03',
             'dev_requirement' => false,
         ),
         'drupal/simple_oauth' => array(
