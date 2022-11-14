@@ -1,0 +1,89 @@
+uuid:
+  -
+    value: 07154381-9fc0-4763-abc3-0296ab2fcdb4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: f1e89877-8495-4ce2-8b34-98670e127297
+revision_timestamp:
+  -
+    value: '2022-11-14T03:41:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5c373917-748e-4271-981c-ed6f0f14a9a9
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5c373917-748e-4271-981c-ed6f0f14a9a9
+title:
+  -
+    value: asdasd
+created:
+  -
+    value: '2022-11-14T03:41:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-14T03:41:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+moderation_state:
+  -
+    value: published
+content_translations:
+  -
+    label: asdasd
+    path: /en/node/25
+    langcode: en
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+body:
+  -
+    value: "<p>asdd</p>\r\n"
+    format: basic_html
+    processed: |
+      <p>asdd</p>
+    summary: ''
+    summary_processed: ''
+field_media_image: {  }
+field_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bc149c4-5e29-49e9-a46e-c11df5f81829
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5c373917-748e-4271-981c-ed6f0f14a9a9
+    taxonomy_term:
+      - taxonomy_term.tags.4bc149c4-5e29-49e9-a46e-c11df5f81829
