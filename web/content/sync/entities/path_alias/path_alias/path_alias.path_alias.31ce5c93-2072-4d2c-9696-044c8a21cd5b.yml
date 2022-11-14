@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 31ce5c93-2072-4d2c-9696-044c8a21cd5b
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/14
+alias:
+  -
+    value: /articles/guia-umami-de-nuestras-setas-preferidas
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

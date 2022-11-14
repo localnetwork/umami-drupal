@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4f2eb5c8-48eb-4e5a-8faf-79d4f6043f05
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/9
+alias:
+  -
+    value: /tags/dairy-free
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

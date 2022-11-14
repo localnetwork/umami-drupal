@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ba46b13c-8655-451f-bfb7-30ea3f408f3a
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/18
+alias:
+  -
+    value: /articles/dale-a-tu-avena-el-cambio-de-imagen-definitivo
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

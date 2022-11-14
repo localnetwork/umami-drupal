@@ -1,0 +1,33 @@
+uuid:
+  -
+    value: fb377ba4-1f35-45fb-a5ec-86aa43fd9058
+langcode:
+  -
+    value: en
+uid: {  }
+filename:
+  -
+    value: umami-bundle.png
+uri:
+  -
+    value: 'public://umami-bundle.png'
+    url: /sites/default/files/umami-bundle.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 30490
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file

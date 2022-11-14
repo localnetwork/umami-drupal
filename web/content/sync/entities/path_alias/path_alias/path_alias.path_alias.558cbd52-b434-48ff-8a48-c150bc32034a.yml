@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 558cbd52-b434-48ff-8a48-c150bc32034a
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/33
+alias:
+  -
+    value: /recipe-category/entrantes
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

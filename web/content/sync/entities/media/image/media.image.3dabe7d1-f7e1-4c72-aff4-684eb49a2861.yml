@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: 3dabe7d1-f7e1-4c72-aff4-684eb49a2861
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Vegan chocolate and nut brownies'
+thumbnail:
+  -
+    alt: 'A stack of chocolate and pecan brownies, sprinkled with pecan crumbs and crushed walnut, fresh out of the oven'
+    title: null
+    width: 770
+    height: 512
+    target_type: file
+    target_uuid: ec001d1f-5610-4f9d-8006-3451318f67b9
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'A stack of chocolate and pecan brownies, sprinkled with pecan crumbs and crushed walnut, fresh out of the oven'
+    title: null
+    width: 770
+    height: 512
+    target_type: file
+    target_uuid: ec001d1f-5610-4f9d-8006-3451318f67b9
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.ec001d1f-5610-4f9d-8006-3451318f67b9
+_translations:
+  es:
+    uuid:
+      -
+        value: 3dabe7d1-f7e1-4c72-aff4-684eb49a2861
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Bizcochos veganos de chocolate y nueces'
+    thumbnail:
+      -
+        alt: 'Una pila de brownies de chocolate y nuez, rociados con migas de nuez y nuez triturada, recién sacados del horno'
+        title: null
+        width: 770
+        height: 512
+        target_type: file
+        target_uuid: ec001d1f-5610-4f9d-8006-3451318f67b9
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Una pila de brownies de chocolate y nuez, rociados con migas de nuez y nuez triturada, recién sacados del horno'
+        title: null
+        width: 770
+        height: 512
+        target_type: file
+        target_uuid: 31542f2b-821f-45cc-8346-dc7b593b56cc
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.ec001d1f-5610-4f9d-8006-3451318f67b9
+          - file.file.31542f2b-821f-45cc-8346-dc7b593b56cc

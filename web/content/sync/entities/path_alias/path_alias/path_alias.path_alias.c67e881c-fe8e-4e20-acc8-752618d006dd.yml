@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c67e881c-fe8e-4e20-acc8-752618d006dd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/7
+alias:
+  -
+    value: /tags/chocolate
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

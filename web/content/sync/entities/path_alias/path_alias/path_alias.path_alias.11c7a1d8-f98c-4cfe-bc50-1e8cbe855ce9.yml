@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 11c7a1d8-f98c-4cfe-bc50-1e8cbe855ce9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/26
+alias:
+  -
+    value: /tags/supermarkets
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

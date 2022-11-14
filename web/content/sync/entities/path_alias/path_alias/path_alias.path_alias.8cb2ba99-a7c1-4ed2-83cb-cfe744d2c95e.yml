@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8cb2ba99-a7c1-4ed2-83cb-cfe744d2c95e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/18
+alias:
+  -
+    value: /tags/mushrooms
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

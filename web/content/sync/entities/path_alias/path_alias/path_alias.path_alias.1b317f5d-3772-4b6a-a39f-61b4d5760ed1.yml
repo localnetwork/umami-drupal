@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1b317f5d-3772-4b6a-a39f-61b4d5760ed1
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/2
+alias:
+  -
+    value: /recipes/bizcochos-veganos-de-chocolate-y-nueces
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e235a22f-1f7b-4337-8725-a47b18028811
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/31
+alias:
+  -
+    value: /recipe-category/main-courses
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

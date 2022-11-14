@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 800c950b-83ae-47c0-ae86-009f20a4269a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/11
+alias:
+  -
+    value: /tags/dinner-party
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

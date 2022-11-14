@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d9a696e6-45aa-4003-a34d-63cc9949a716
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/3
+alias:
+  -
+    value: /tags/cocción
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

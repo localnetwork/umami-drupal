@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9908cd1b-6ef5-4e22-970c-8589fadbcc02
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/1
+alias:
+  -
+    value: /tags/sin-alcohol
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

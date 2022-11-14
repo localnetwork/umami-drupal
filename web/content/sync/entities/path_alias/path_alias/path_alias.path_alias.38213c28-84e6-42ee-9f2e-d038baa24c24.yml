@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 38213c28-84e6-42ee-9f2e-d038baa24c24
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/21
+alias:
+  -
+    value: /tags/pasta
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 69e679fc-24af-44ba-b861-d24e5266a53a
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/10
+alias:
+  -
+    value: /tags/postre
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

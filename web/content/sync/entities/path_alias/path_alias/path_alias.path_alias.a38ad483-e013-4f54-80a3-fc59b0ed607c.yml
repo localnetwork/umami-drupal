@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a38ad483-e013-4f54-80a3-fc59b0ed607c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/30
+alias:
+  -
+    value: /recipe-category/desserts
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

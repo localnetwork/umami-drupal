@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d3568b13-d4a8-4913-ba42-199790a4d890
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/15
+alias:
+  -
+    value: /articles/lets-hear-it-for-carrots
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: 86ae8c6f-0c29-4268-af6e-8a9572bdc7bf
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Chocolate Brownie Umami'
+thumbnail:
+  -
+    alt: 'A delicious chocolate brownie'
+    title: null
+    width: 768
+    height: 511
+    target_type: file
+    target_uuid: 7e572508-e6b0-49c1-bd41-4bc5473ecca1
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'A delicious chocolate brownie'
+    title: null
+    width: 768
+    height: 511
+    target_type: file
+    target_uuid: 7e572508-e6b0-49c1-bd41-4bc5473ecca1
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.7e572508-e6b0-49c1-bd41-4bc5473ecca1
+_translations:
+  es:
+    uuid:
+      -
+        value: 86ae8c6f-0c29-4268-af6e-8a9572bdc7bf
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Percances al hornear - nuestros consejos para solucionar los problemas'
+    thumbnail:
+      -
+        alt: 'Un delicioso brownie de chocolate'
+        title: null
+        width: 768
+        height: 511
+        target_type: file
+        target_uuid: 7e572508-e6b0-49c1-bd41-4bc5473ecca1
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Un delicioso brownie de chocolate'
+        title: null
+        width: 768
+        height: 511
+        target_type: file
+        target_uuid: 7e965093-8468-4d7a-931d-a80123f4276b
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.7e572508-e6b0-49c1-bd41-4bc5473ecca1
+          - file.file.7e965093-8468-4d7a-931d-a80123f4276b

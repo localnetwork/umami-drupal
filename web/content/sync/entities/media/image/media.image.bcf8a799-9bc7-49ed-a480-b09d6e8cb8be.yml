@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: bcf8a799-9bc7-49ed-a480-b09d6e8cb8be
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Supermarket Savvy Umami'
+thumbnail:
+  -
+    alt: 'Leafy greens presented on supermarket produce shelving'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: 07f65eb5-d3ca-41dd-87df-99b4b595a0ac
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'Leafy greens presented on supermarket produce shelving'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: 07f65eb5-d3ca-41dd-87df-99b4b595a0ac
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.07f65eb5-d3ca-41dd-87df-99b4b595a0ac
+_translations:
+  es:
+    uuid:
+      -
+        value: bcf8a799-9bc7-49ed-a480-b09d6e8cb8be
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'El verdadero negocio para comprar en el supermercado'
+    thumbnail:
+      -
+        alt: 'Verduras de hoja verde presentadas en la estantería del supermercado.'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: 07f65eb5-d3ca-41dd-87df-99b4b595a0ac
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Verduras de hoja verde presentadas en la estantería del supermercado.'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: d6289d76-2c78-4b74-b83f-cfd3d1cbf497
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.07f65eb5-d3ca-41dd-87df-99b4b595a0ac
+          - file.file.d6289d76-2c78-4b74-b83f-cfd3d1cbf497

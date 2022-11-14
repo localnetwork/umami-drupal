@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: 68da5ee2-e3bb-480a-b6ba-4b98cb92ee57
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Gluten free pizza'
+thumbnail:
+  -
+    alt: 'Olives, basil, and mozzarella top a gluten free pizza crust with marinara sauce'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: 1087a993-ed12-487b-b78a-5213f769ac84
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'Olives, basil, and mozzarella top a gluten free pizza crust with marinara sauce'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: 1087a993-ed12-487b-b78a-5213f769ac84
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.1087a993-ed12-487b-b78a-5213f769ac84
+_translations:
+  es:
+    uuid:
+      -
+        value: 68da5ee2-e3bb-480a-b6ba-4b98cb92ee57
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Pizza sin gluten'
+    thumbnail:
+      -
+        alt: 'Aceitunas, albahaca y mozzarella cubren una masa de pizza sin gluten con salsa de tomate.'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: 1087a993-ed12-487b-b78a-5213f769ac84
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Aceitunas, albahaca y mozzarella cubren una masa de pizza sin gluten con salsa de tomate.'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: c4c27dc6-b268-4f3a-9b7e-59605e534f03
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.1087a993-ed12-487b-b78a-5213f769ac84
+          - file.file.c4c27dc6-b268-4f3a-9b7e-59605e534f03

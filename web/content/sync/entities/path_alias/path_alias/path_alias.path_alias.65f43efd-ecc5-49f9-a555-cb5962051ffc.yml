@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 65f43efd-ecc5-49f9-a555-cb5962051ffc
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/32
+alias:
+  -
+    value: /recipe-category/snacks
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

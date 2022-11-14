@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 936d1c0b-a65a-4159-a661-dfd8c71fd708
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/17
+alias:
+  -
+    value: /articles/salta-los-espiritus-con-deliciosos-cocteles-sin-alcohol
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

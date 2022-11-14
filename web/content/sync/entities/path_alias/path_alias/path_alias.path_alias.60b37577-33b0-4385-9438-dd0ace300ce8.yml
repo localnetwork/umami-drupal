@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 60b37577-33b0-4385-9438-dd0ace300ce8
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/13
+alias:
+  -
+    value: /articles/el-verdadeo-negocio-para-comprar-en-el-supermercado
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5ed5dcad-3104-4353-8a7a-4e2d0e085210
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/12
+alias:
+  -
+    value: /tags/drinks
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

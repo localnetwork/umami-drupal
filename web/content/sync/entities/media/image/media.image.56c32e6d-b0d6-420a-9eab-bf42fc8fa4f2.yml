@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: 56c32e6d-b0d6-420a-9eab-bf42fc8fa4f2
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Victoria sponge cake'
+thumbnail:
+  -
+    alt: 'A classic, uncut Victoria sponge with a deep filling of butter cream and jam'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: ba43ed35-04ff-4028-af8f-9e632c02c51b
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'A classic, uncut Victoria sponge with a deep filling of butter cream and jam'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: ba43ed35-04ff-4028-af8f-9e632c02c51b
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.ba43ed35-04ff-4028-af8f-9e632c02c51b
+_translations:
+  es:
+    uuid:
+      -
+        value: 56c32e6d-b0d6-420a-9eab-bf42fc8fa4f2
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Pastel Victoria'
+    thumbnail:
+      -
+        alt: 'Una esponja Victoria clásica, sin cortar, con un relleno profundo de crema de mantequilla y mermelada'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: ba43ed35-04ff-4028-af8f-9e632c02c51b
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Una esponja Victoria clásica, sin cortar, con un relleno profundo de crema de mantequilla y mermelada'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: 29f13ac4-0606-44ec-8e53-5e523e361f9b
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.ba43ed35-04ff-4028-af8f-9e632c02c51b
+          - file.file.29f13ac4-0606-44ec-8e53-5e523e361f9b

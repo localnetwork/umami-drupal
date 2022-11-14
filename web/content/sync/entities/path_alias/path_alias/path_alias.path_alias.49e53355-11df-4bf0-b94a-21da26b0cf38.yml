@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 49e53355-11df-4bf0-b94a-21da26b0cf38
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/18
+alias:
+  -
+    value: /articles/give-your-oatmeal-the-ultimate-makeover
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

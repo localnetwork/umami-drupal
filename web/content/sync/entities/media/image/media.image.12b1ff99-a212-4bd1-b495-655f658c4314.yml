@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: 12b1ff99-a212-4bd1-b495-655f658c4314
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Thai green curry'
+thumbnail:
+  -
+    alt: 'A traditional bowl of creamy, aromatic Thai green curry with chunks of chicken in a small bowl with jasmine rice'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: 00b01ce2-6359-4c13-9cea-761d135583f5
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'A traditional bowl of creamy, aromatic Thai green curry with chunks of chicken in a small bowl with jasmine rice'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: 00b01ce2-6359-4c13-9cea-761d135583f5
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.00b01ce2-6359-4c13-9cea-761d135583f5
+_translations:
+  es:
+    uuid:
+      -
+        value: 12b1ff99-a212-4bd1-b495-655f658c4314
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Curry verde tailandés'
+    thumbnail:
+      -
+        alt: 'Un tazón tradicional de curry verde tailandés aromático y cremoso, con trozos de pollo y verduras.'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: 00b01ce2-6359-4c13-9cea-761d135583f5
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Un tazón tradicional de curry verde tailandés aromático y cremoso, con trozos de pollo y verduras.'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: be59e114-1be8-4e94-ad51-0a81e8567401
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.00b01ce2-6359-4c13-9cea-761d135583f5
+          - file.file.be59e114-1be8-4e94-ad51-0a81e8567401

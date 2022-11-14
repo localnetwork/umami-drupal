@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f20fe579-b243-4a55-b9e9-a6f40a8f06ef
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/5
+alias:
+  -
+    value: /tags/pastel
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

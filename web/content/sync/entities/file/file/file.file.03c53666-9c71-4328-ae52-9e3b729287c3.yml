@@ -1,0 +1,33 @@
+uuid:
+  -
+    value: 03c53666-9c71-4328-ae52-9e3b729287c3
+langcode:
+  -
+    value: en
+uid: {  }
+filename:
+  -
+    value: mojito-mocktail.jpg
+uri:
+  -
+    value: 'public://mojito-mocktail.jpg'
+    url: /sites/default/files/mojito-mocktail.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 49938
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file

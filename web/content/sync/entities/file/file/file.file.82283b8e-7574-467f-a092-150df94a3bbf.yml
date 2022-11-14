@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 82283b8e-7574-467f-a092-150df94a3bbf
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: 5c373917-748e-4271-981c-ed6f0f14a9a9
+filename:
+  -
+    value: 15896192_1649217528712860_6289916651716569407_o.jpg
+uri:
+  -
+    value: 'public://2022-11/15896192_1649217528712860_6289916651716569407_o.jpg'
+    url: /sites/default/files/2022-11/15896192_1649217528712860_6289916651716569407_o.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 131464
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-11-07T06:09:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-07T06:09:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5c373917-748e-4271-981c-ed6f0f14a9a9

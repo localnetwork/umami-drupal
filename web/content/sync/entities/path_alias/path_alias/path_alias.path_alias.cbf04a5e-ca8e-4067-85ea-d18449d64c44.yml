@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: cbf04a5e-ca8e-4067-85ea-d18449d64c44
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/32
+alias:
+  -
+    value: /recipe-category/tentempiés
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

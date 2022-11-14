@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 13936f40-b97e-4107-bbe0-dfaa4604a6bb
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/33
+alias:
+  -
+    value: /recipe-category/starters
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

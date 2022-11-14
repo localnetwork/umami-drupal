@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a12b3f3e-c289-4a62-92cb-c5c45a2a1946
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/28
+alias:
+  -
+    value: /tags/vegetariano
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

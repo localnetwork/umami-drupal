@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7daf0343-e579-4630-91da-75dad52c5f35
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/5
+alias:
+  -
+    value: /recipes/pastel-victoria
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

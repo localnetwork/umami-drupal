@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 45172871-b893-4113-be27-69458169f057
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/2
+alias:
+  -
+    value: /tags/baked
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

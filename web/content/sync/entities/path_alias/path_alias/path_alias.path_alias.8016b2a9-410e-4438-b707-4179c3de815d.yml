@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8016b2a9-410e-4438-b707-4179c3de815d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/19
+alias:
+  -
+    value: /about-umami
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

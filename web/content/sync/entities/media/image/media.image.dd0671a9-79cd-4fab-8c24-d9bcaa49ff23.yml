@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: dd0671a9-79cd-4fab-8c24-d9bcaa49ff23
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Oatmeal Fruit Syrop Topping'
+thumbnail:
+  -
+    alt: 'Oatmeal topped with a vibrant mix of berries, nuts, and seeds'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: a3196ff2-f143-4f23-93cb-3e2e97da7c50
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'Oatmeal topped with a vibrant mix of berries, nuts, and seeds'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: a3196ff2-f143-4f23-93cb-3e2e97da7c50
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.a3196ff2-f143-4f23-93cb-3e2e97da7c50
+_translations:
+  es:
+    uuid:
+      -
+        value: dd0671a9-79cd-4fab-8c24-d9bcaa49ff23
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Dale a tu avena el cambio de imagen definitivo'
+    thumbnail:
+      -
+        alt: 'Avena con una mezcla vibrante de bayas, nueces y semillas'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: a3196ff2-f143-4f23-93cb-3e2e97da7c50
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Avena con una mezcla vibrante de bayas, nueces y semillas'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: 38afcbc2-22ba-4b52-9873-ba9627739ae7
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.a3196ff2-f143-4f23-93cb-3e2e97da7c50
+          - file.file.38afcbc2-22ba-4b52-9873-ba9627739ae7

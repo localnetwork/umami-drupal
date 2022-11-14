@@ -1,0 +1,38 @@
+uuid:
+  -
+    value: d16b95a4-a9e1-4393-be52-80c524cdb8f2
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: 5c373917-748e-4271-981c-ed6f0f14a9a9
+workflow:
+  -
+    target_id: editorial
+    target_type: workflow
+    target_uuid: 53da821b-9695-40d8-8504-1e94c3f2326e
+moderation_state:
+  -
+    value: published
+content_entity_type_id:
+  -
+    value: node
+content_entity_id:
+  -
+    value: 22
+content_entity_revision_id:
+  -
+    value: 51
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: content_moderation_state
+  entity_dependencies:
+    user:
+      - user.user.5c373917-748e-4271-981c-ed6f0f14a9a9

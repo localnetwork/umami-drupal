@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f5575356-c7ee-4893-ad27-a5071fe11a0a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/10
+alias:
+  -
+    value: /recipes/borscht-with-pork-ribs
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

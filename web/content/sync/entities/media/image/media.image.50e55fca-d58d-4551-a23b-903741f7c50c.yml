@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: 50e55fca-d58d-4551-a23b-903741f7c50c
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Deep mediterranean quiche'
+thumbnail:
+  -
+    alt: 'A delicious deep layered Mediterranean quiche with basil garnish'
+    title: null
+    width: 768
+    height: 511
+    target_type: file
+    target_uuid: c98bd6b2-bd39-4611-95c1-454c47f21e82
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'A delicious deep layered Mediterranean quiche with basil garnish'
+    title: null
+    width: 768
+    height: 511
+    target_type: file
+    target_uuid: c98bd6b2-bd39-4611-95c1-454c47f21e82
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.c98bd6b2-bd39-4611-95c1-454c47f21e82
+_translations:
+  es:
+    uuid:
+      -
+        value: 50e55fca-d58d-4551-a23b-903741f7c50c
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Quiche mediterráneo profundo'
+    thumbnail:
+      -
+        alt: 'Un delicioso quiche mediterráneo de capas profundas con guarnición de albahaca.'
+        title: null
+        width: 768
+        height: 511
+        target_type: file
+        target_uuid: c98bd6b2-bd39-4611-95c1-454c47f21e82
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Un delicioso quiche mediterráneo de capas profundas con guarnición de albahaca.'
+        title: null
+        width: 768
+        height: 511
+        target_type: file
+        target_uuid: 38144e15-7a9b-4633-8549-a0c11517e216
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.c98bd6b2-bd39-4611-95c1-454c47f21e82
+          - file.file.38144e15-7a9b-4633-8549-a0c11517e216

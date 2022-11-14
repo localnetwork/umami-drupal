@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: 0357abb6-d958-47f3-9d8d-b977eca55793
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Mojito Mocktail'
+thumbnail:
+  -
+    alt: 'Fresh mojito mocktail with garnish of mint leaves, ice, and sliced lime'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: 03c53666-9c71-4328-ae52-9e3b729287c3
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'Fresh mojito mocktail with garnish of mint leaves, ice, and sliced lime'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: 03c53666-9c71-4328-ae52-9e3b729287c3
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.03c53666-9c71-4328-ae52-9e3b729287c3
+_translations:
+  es:
+    uuid:
+      -
+        value: 0357abb6-d958-47f3-9d8d-b977eca55793
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Salta los espíritus con deliciosos cócteles sin alcohol'
+    thumbnail:
+      -
+        alt: 'Mocktail de mojito fresco con guarnición de hojas de menta, hielo y lima en rodajas'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: 03c53666-9c71-4328-ae52-9e3b729287c3
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Mocktail de mojito fresco con guarnición de hojas de menta, hielo y lima en rodajas'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: 4bc79998-705f-4273-aa5c-46ba4fdad993
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.03c53666-9c71-4328-ae52-9e3b729287c3
+          - file.file.4bc79998-705f-4273-aa5c-46ba4fdad993
