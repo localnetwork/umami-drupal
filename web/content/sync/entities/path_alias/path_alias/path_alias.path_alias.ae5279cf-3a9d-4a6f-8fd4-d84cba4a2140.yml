@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ae5279cf-3a9d-4a6f-8fd4-d84cba4a2140
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/34
+alias:
+  -
+    value: /articles/delicioso-chocolate-sin-lactosa
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

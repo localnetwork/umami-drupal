@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8f28e99c-f5b4-4c6b-8250-e4a3ca220834
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/49
+alias:
+  -
+    value: /recipes/thai-green-curry
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f84b44ad-1518-467f-8f5e-37c44fc0962b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/48
+alias:
+  -
+    value: /recipes/fiery-chili-sauce
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

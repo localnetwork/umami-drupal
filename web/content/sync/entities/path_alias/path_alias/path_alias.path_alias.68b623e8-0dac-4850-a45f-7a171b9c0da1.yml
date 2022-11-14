@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 68b623e8-0dac-4850-a45f-7a171b9c0da1
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/36
+alias:
+  -
+    value: /recipes/crema-catalana
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

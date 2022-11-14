@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 972c6d7f-cd09-47a2-a519-87d47ebf3292
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/46
+alias:
+  -
+    value: /recipes/watercress-soup
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

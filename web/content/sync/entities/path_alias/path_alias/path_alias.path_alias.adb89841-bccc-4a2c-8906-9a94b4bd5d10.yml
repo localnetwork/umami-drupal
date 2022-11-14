@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: adb89841-bccc-4a2c-8906-9a94b4bd5d10
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/6
+alias:
+  -
+    value: /tags/zanahorias
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

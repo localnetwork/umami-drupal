@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 242aea90-d9b3-4160-99fb-5ad6f9ff3fda
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/49
+alias:
+  -
+    value: /recipes/curry-verde-tailandes
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

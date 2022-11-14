@@ -54,7 +54,7 @@ moderation_state:
 content_translations:
   -
     label: asdasd
-    path: /en/node/25
+    path: /en/node/27
     langcode: en
 path:
   -

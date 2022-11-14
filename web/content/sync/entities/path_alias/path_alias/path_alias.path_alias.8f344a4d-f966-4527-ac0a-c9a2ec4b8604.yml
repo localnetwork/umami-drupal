@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8f344a4d-f966-4527-ac0a-c9a2ec4b8604
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/40
+alias:
+  -
+    value: /recipes/gluten-free-pizza
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

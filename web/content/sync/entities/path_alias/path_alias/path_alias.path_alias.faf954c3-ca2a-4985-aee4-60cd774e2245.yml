@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: faf954c3-ca2a-4985-aee4-60cd774e2245
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/12
+alias:
+  -
+    value: /tags/bebidas
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b4b4fce8-677b-4d69-8145-718a7c3cb57b
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/19
+alias:
+  -
+    value: /tags/avena
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

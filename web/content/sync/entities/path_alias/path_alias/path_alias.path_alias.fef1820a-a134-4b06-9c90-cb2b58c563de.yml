@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fef1820a-a134-4b06-9c90-cb2b58c563de
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/17
+alias:
+  -
+    value: /tags/learn-to-cook
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

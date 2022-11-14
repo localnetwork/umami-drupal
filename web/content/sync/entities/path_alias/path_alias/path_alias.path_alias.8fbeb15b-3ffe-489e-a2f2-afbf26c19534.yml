@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8fbeb15b-3ffe-489e-a2f2-afbf26c19534
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/22
+alias:
+  -
+    value: /tags/repostería
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a145916f-131c-4ebf-a139-dfa58c26cd1f
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/9
+alias:
+  -
+    value: /tags/sin-lactosa
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

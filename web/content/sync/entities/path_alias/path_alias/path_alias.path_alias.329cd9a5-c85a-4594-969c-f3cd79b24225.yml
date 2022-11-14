@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 329cd9a5-c85a-4594-969c-f3cd79b24225
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/46
+alias:
+  -
+    value: /recipes/sopa-de-berro
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

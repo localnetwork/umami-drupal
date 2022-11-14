@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7a28c033-3f88-4183-9f0f-a9a48da80fc8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/1
+alias:
+  -
+    value: /tags/alcohol-free
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

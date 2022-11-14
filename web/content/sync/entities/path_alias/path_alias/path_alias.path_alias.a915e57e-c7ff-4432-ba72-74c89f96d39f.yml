@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a915e57e-c7ff-4432-ba72-74c89f96d39f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/15
+alias:
+  -
+    value: /tags/healthy
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

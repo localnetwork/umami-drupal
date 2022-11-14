@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 115372b0-7cfd-4225-8a10-b62df72a247b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/29
+alias:
+  -
+    value: /recipe-category/accompaniments
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c8348e7e-4c45-412c-945f-ac1e10bafd9c
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/48
+alias:
+  -
+    value: /recipes/salsa-de-chile-ardiente
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

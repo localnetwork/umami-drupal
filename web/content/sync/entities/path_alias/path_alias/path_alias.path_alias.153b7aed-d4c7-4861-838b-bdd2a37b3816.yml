@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 153b7aed-d4c7-4861-838b-bdd2a37b3816
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/47
+alias:
+  -
+    value: /recipes/victoria-sponge-cake
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

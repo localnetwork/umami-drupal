@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: cec3d6da-6cd8-42d8-989a-d123fd96df73
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/25
+alias:
+  -
+    value: /tags/sopa
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2253aec4-c75c-4c80-b00e-41908a873eff
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/5
+alias:
+  -
+    value: /tags/cake
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

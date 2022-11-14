@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 52f71eb0-ea38-496b-90b1-e1a4c59e04d4
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/20
+alias:
+  -
+    value: /tags/fiesta
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

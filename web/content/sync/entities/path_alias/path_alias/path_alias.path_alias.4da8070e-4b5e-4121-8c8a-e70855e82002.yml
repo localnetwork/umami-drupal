@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4da8070e-4b5e-4121-8c8a-e70855e82002
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/4
+alias:
+  -
+    value: /tags/breakfast
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

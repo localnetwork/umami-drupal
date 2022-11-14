@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 304b3d97-a5bb-4ac7-a306-731e80455db2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/41
+alias:
+  -
+    value: /recipes/deep-mediterranean-quiche
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

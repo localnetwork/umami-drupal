@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7de25d9d-e6d1-4afe-a226-8cde232e95d2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/26
+alias:
+  -
+    value: /articles/the-real-deal-for-supermarket-savvy-shopping
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias
