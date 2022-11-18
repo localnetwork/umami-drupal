@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: df25eea2-8f63-44b0-987d-1a0f314b3b00
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: 5c373917-748e-4271-981c-ed6f0f14a9a9
+filename:
+  -
+    value: 6050786f964b8.png
+uri:
+  -
+    value: 'public://2022-11/6050786f964b8.png'
+    url: /sites/default/files/2022-11/6050786f964b8.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 211384
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-11-18T09:10:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-18T09:10:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5c373917-748e-4271-981c-ed6f0f14a9a9
