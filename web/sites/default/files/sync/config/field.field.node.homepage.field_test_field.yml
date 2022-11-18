@@ -1,0 +1,19 @@
+uuid: 1e500718-9d33-4df2-b9a7-1d9346a5d9dc
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_test_field
+    - node.type.homepage
+id: node.homepage.field_test_field
+field_name: field_test_field
+entity_type: node
+bundle: homepage
+label: 'test field'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
