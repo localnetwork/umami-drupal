@@ -11,7 +11,7 @@ type:
     target_uuid: fed5ec89-5eb9-4fe6-ac6e-4bde8a936732
 revision_timestamp:
   -
-    value: '2022-11-18T07:29:38+00:00'
+    value: '2022-11-18T08:42:59+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_uid:
   -
@@ -34,7 +34,7 @@ created:
     format: 'Y-m-d\TH:i:sP'
 changed:
   -
-    value: '2022-11-18T07:29:38+00:00'
+    value: '2022-11-18T08:42:59+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   -
@@ -75,7 +75,7 @@ field_ingredients: {  }
 field_media_image:
   -
     target_type: media
-    target_uuid: 33a1c2ec-0451-4f46-8c38-53ff0ce928be
+    target_uuid: 8e1c66ff-7af9-4de8-9384-ba220d57f225
 field_number_of_servings:
   -
     value: 11
@@ -102,4 +102,4 @@ _content_sync:
     user:
       - user.user.5c373917-748e-4271-981c-ed6f0f14a9a9
     media:
-      - media.image.33a1c2ec-0451-4f46-8c38-53ff0ce928be
+      - media.image.8e1c66ff-7af9-4de8-9384-ba220d57f225
