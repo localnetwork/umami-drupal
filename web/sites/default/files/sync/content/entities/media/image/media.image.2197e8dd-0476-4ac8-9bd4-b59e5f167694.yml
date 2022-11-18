@@ -1,0 +1,75 @@
+uuid:
+  -
+    value: 2197e8dd-0476-4ac8-9bd4-b59e5f167694
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-18T06:15:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5c373917-748e-4271-981c-ed6f0f14a9a9
+name:
+  -
+    value: '82042132_113129306885713_7723839327066652672_o (2).jpg'
+thumbnail:
+  -
+    alt: '111'
+    title: null
+    width: 960
+    height: 960
+    target_type: file
+    target_uuid: 8252cf56-6fad-4816-bd15-01478369a83a
+created:
+  -
+    value: '2022-11-18T06:15:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-18T06:15:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: '111'
+    title: ''
+    width: 960
+    height: 960
+    target_type: file
+    target_uuid: 8252cf56-6fad-4816-bd15-01478369a83a
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.5c373917-748e-4271-981c-ed6f0f14a9a9
+    file:
+      - file.file.8252cf56-6fad-4816-bd15-01478369a83a
