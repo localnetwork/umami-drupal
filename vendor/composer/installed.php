@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '428f7f30c57f4f040e70de86ce57cc4bcbdeff03',
+        'reference' => '7061cc0e4163c02bf365b86d4acec76eb20c940a',
         'name' => 'drupal/recommended-project',
         'dev' => true,
     ),
@@ -472,7 +472,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '428f7f30c57f4f040e70de86ce57cc4bcbdeff03',
+            'reference' => '7061cc0e4163c02bf365b86d4acec76eb20c940a',
             'dev_requirement' => false,
         ),
         'drupal/simple_oauth' => array(
@@ -500,6 +500,15 @@
             'install_path' => __DIR__ . '/../../web/modules/contrib/token',
             'aliases' => array(),
             'reference' => '8.x-1.11',
+            'dev_requirement' => false,
+        ),
+        'drupal/webform' => array(
+            'pretty_version' => '6.2.0-beta3',
+            'version' => '6.2.0.0-beta3',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../web/modules/contrib/webform',
+            'aliases' => array(),
+            'reference' => '6.2.0-beta3',
             'dev_requirement' => false,
         ),
         'drush/drush' => array(

@@ -1,0 +1,21 @@
+uuid: 5e0d2ecd-e002-4057-be7b-2310220619f1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ingredients
+    - node.type.recipe
+_core:
+  default_config_hash: qpxijO-cv11BYqtVXON2aYLfLDODClUq3Sux3EJrUEk
+id: node.recipe.field_ingredients
+field_name: field_ingredients
+entity_type: node
+bundle: recipe
+label: Ingredients
+description: 'List the ingredients required for this recipe, one per item.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

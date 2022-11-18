@@ -1,0 +1,12 @@
+uuid: dfe5abb7-e263-46e3-b2a5-a597a9661d6e
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: z6QSG0XSjPK_V4notuY8MaeIAO_QnwfvuH825TyLiHg
+id: node.card
+label: Card
+targetEntityType: node
+cache: true

@@ -1,0 +1,16 @@
+uuid: 3860fe3e-d4f9-46a9-a0ba-24175bc0dd50
+langcode: en
+status: true
+dependencies:
+  module:
+    - next_extras
+third_party_settings:
+  next_extras:
+    revalidate: false
+    revalidate_paths: ''
+id: node.page
+site_resolver: site_selector
+configuration:
+  sites:
+    localhost: localhost
+  field_name: {  }
