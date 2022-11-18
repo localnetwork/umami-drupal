@@ -7,6 +7,7 @@ dependencies:
     - field.field.node.homepage.field_new_field
     - field.field.node.homepage.field_sample_field
     - field.field.node.homepage.field_sample_image_field
+    - field.field.node.homepage.field_test_
     - field.field.node.homepage.field_test_field
     - node.type.homepage
   module:
@@ -51,6 +52,14 @@ content:
         attribute: lazy
     third_party_settings: {  }
     weight: 105
+    region: content
+  field_test_:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 106
     region: content
   field_test_field:
     type: string

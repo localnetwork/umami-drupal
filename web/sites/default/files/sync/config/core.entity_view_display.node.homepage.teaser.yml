@@ -8,6 +8,7 @@ dependencies:
     - field.field.node.homepage.field_new_field
     - field.field.node.homepage.field_sample_field
     - field.field.node.homepage.field_sample_image_field
+    - field.field.node.homepage.field_test_
     - field.field.node.homepage.field_test_field
     - node.type.homepage
   module:
@@ -35,5 +36,6 @@ hidden:
   field_new_field: true
   field_sample_field: true
   field_sample_image_field: true
+  field_test_: true
   field_test_field: true
   langcode: true
