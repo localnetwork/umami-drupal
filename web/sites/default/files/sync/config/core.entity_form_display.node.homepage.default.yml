@@ -6,10 +6,13 @@ dependencies:
     - field.field.node.homepage.body
     - field.field.node.homepage.field_new_field
     - field.field.node.homepage.field_sample_field
+    - field.field.node.homepage.field_sample_image_field
     - field.field.node.homepage.field_test_field
+    - image.style.thumbnail
     - node.type.homepage
   module:
     - content_moderation
+    - image
     - path
     - text
 id: node.homepage.default
@@ -48,6 +51,14 @@ content:
     settings:
       size: 60
       placeholder: ''
+    third_party_settings: {  }
+  field_sample_image_field:
+    type: image_image
+    weight: 125
+    region: content
+    settings:
+      progress_indicator: throbber
+      preview_image_style: thumbnail
     third_party_settings: {  }
   field_test_field:
     type: string_textfield
