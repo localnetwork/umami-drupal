@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - field.field.node.homepage.body
+    - field.field.node.homepage.field_new_field
     - field.field.node.homepage.field_sample_field
     - field.field.node.homepage.field_test_field
     - node.type.homepage
@@ -21,6 +22,14 @@ content:
     settings: {  }
     third_party_settings: {  }
     weight: 101
+    region: content
+  field_new_field:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 104
     region: content
   field_sample_field:
     type: string

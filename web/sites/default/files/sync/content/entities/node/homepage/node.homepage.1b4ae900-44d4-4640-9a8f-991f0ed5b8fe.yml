@@ -34,7 +34,7 @@ created:
     format: 'Y-m-d\TH:i:sP'
 changed:
   -
-    value: '2022-11-18T07:07:10+00:00'
+    value: '2022-11-18T07:14:01+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   -
@@ -62,12 +62,15 @@ content_translation_outdated:
   -
     value: false
 body: {  }
+field_new_field:
+  -
+    value: 'override from local'
 field_sample_field:
   -
-    value: sadsad
+    value: 'override from local'
 field_test_field:
   -
-    value: sadsad
+    value: 'override from local'
 _content_sync:
   entity_type: node
   entity_dependencies:
