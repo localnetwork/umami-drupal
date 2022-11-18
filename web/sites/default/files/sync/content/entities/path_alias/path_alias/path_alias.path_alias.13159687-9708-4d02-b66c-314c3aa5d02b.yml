@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 13159687-9708-4d02-b66c-314c3aa5d02b
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/24
+alias:
+  -
+    value: /tags/compras
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

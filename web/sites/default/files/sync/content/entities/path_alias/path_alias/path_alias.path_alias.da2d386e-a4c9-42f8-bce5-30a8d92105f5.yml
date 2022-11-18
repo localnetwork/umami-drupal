@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: da2d386e-a4c9-42f8-bce5-30a8d92105f5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/8
+alias:
+  -
+    value: /tags/cocktail-party
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

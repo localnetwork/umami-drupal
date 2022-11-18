@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3d57acb3-ded1-4473-9a76-458dda5cf29f
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/31
+alias:
+  -
+    value: /articles/percances-al-hornear-nuestros-consejos-para-solucionar-problemas
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

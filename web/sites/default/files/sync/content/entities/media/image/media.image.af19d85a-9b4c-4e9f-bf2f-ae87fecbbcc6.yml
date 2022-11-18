@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: af19d85a-9b4c-4e9f-bf2f-ae87fecbbcc6
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: '3 issue bundle of the Umami food magazine'
+thumbnail:
+  -
+    alt: '3 issue bundle of the Umami food magazine'
+    title: null
+    width: 266
+    height: 236
+    target_type: file
+    target_uuid: 8d33086c-7461-4bdb-84af-9b15b5d96f60
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: '3 issue bundle of the Umami food magazine'
+    title: null
+    width: 266
+    height: 236
+    target_type: file
+    target_uuid: 8d33086c-7461-4bdb-84af-9b15b5d96f60
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.8d33086c-7461-4bdb-84af-9b15b5d96f60
+_translations:
+  es:
+    uuid:
+      -
+        value: af19d85a-9b4c-4e9f-bf2f-ae87fecbbcc6
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Paquete de 3 ediciones de la revista de comida Umami'
+    thumbnail:
+      -
+        alt: 'Paquete de 3 ediciones de la revista de comida Umami'
+        title: null
+        width: 266
+        height: 236
+        target_type: file
+        target_uuid: 8d33086c-7461-4bdb-84af-9b15b5d96f60
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Paquete de 3 ediciones de la revista de comida Umami'
+        title: null
+        width: 266
+        height: 236
+        target_type: file
+        target_uuid: fb377ba4-1f35-45fb-a5ec-86aa43fd9058
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.8d33086c-7461-4bdb-84af-9b15b5d96f60
+          - file.file.fb377ba4-1f35-45fb-a5ec-86aa43fd9058

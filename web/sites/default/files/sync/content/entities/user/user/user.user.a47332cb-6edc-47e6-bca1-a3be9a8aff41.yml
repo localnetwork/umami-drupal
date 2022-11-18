@@ -1,0 +1,40 @@
+uuid:
+  -
+    value: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+langcode:
+  -
+    value: en
+name:
+  -
+    value: Umami
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-14T07:21:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+user_picture: {  }
+_content_sync:
+  entity_type: user
+  entity_dependencies: {  }
+pass:
+  -
+    value: $S$EQTbOntL.2j52SmEPjOj3aSdafIn7L8eoFX7JdIcJzNi6DVWA.OY
+    pre_hashed: true
+mail:
+  value: umami@example.com
+status:
+  value: '1'
+roles:
+  - authenticated
+  - author

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3deeb7fa-ed0f-487b-b479-283ff80da25b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/20
+alias:
+  -
+    value: /tags/party
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

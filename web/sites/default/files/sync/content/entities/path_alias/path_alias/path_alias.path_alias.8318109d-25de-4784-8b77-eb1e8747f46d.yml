@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8318109d-25de-4784-8b77-eb1e8747f46d
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/27
+alias:
+  -
+    value: /tags/vegano
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fbca84fc-f8a3-431c-ab9b-eea65653244b
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/11
+alias:
+  -
+    value: /tags/fiesta-de-cena
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d6036954-649f-4fa1-8464-33becd528f8f
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/18
+alias:
+  -
+    value: /tags/champiñones
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

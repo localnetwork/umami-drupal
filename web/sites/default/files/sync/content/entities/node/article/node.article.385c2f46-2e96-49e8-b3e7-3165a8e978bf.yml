@@ -1,0 +1,226 @@
+uuid:
+  -
+    value: 385c2f46-2e96-49e8-b3e7-3165a8e978bf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: f1e89877-8495-4ce2-8b34-98670e127297
+revision_timestamp:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+title:
+  -
+    value: 'The Umami guide to our favorite mushrooms'
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+moderation_state:
+  -
+    value: published
+content_translations:
+  -
+    label: 'The Umami guide to our favorite mushrooms'
+    path: /en/articles/the-umami-guide-to-our-favourite-mushrooms
+    langcode: en
+  -
+    label: 'Guía Umami de nuestras setas preferidas'
+    path: /es/articles/guia-umami-de-nuestras-setas-preferidas
+    langcode: es
+path:
+  -
+    alias: /articles/the-umami-guide-to-our-favourite-mushrooms
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+body:
+  -
+    value: |
+      <p>We think mushrooms are one of the most enjoyable ingredients to cook with. There are plenty of edible varieties to try, each with their own distinctive shape, size, and taste. And with curious names such as chanterelle, the gypsy, horn of plenty, or hen of the woods, who wouldn't want to know more about cooking with the mighty mushroom?</p>
+      <p>One of the best things about mushrooms is their versatility. They can be fried, roasted, grilled, steamed, or even cooked in the microwave. And they can be served as the main ingredient for a dish, or simply added as part of the mix. This makes mushrooms an ideal choice for creating absolutely delicious vegetarian dishes.</p>
+      <p>So let's take a look at some of our favorite types of mushroom. You might not have tried cooking with them before but don't let that put you off. With their delicious, distinctive flavors you can easily transform soups, starters, sauces and create amazing pasta, or stir-fry dishes.</p>
+      <p>Try the lovely <strong>shiitake</strong>. Used in Asian cooking, these can be purchased dried and rehydrated for a strong, deep flavor. Or buy fresh and add to soups and stir-fries. Not only does this mushroom have an intense flavor, it looks lovely too. The deep brown and smooth shapes will provide texture to your meal. In their dried form and rehydrated, these are the perfect addition for a deep and flavorful stock for a risotto.</p>
+      <p>The gorgeous sunny <strong>chanterelle</strong> with its yellow flesh has a fruity flavor - but it is worth mentioning that there are many lookalikes out there and care should be taken to ensure you're eating the right ones. These look great in an omelette or an Asian soup to complement the yellow tones.</p>
+      <p>The brown <strong>morel</strong> offers a meaty and distinctive flavor and you'll probably love how extraordinary they look in a meal. The morel is a more popular mushroom during the spring, when their availability is high.</p>
+      <p>For delicacy try the <strong>enoki</strong> with its tiny white heads that grow in a bunch. These can even be eaten raw in salads. Finally, you can choose the popular <strong>oyster</strong> mushroom. They are named thus because they look nothing like a mushroom and resemble the innards of an oyster and their sweet flavor is delicious.</p>
+    format: basic_html
+    processed: |
+      <p>We think mushrooms are one of the most enjoyable ingredients to cook with. There are plenty of edible varieties to try, each with their own distinctive shape, size, and taste. And with curious names such as chanterelle, the gypsy, horn of plenty, or hen of the woods, who wouldn't want to know more about cooking with the mighty mushroom?</p>
+      <p>One of the best things about mushrooms is their versatility. They can be fried, roasted, grilled, steamed, or even cooked in the microwave. And they can be served as the main ingredient for a dish, or simply added as part of the mix. This makes mushrooms an ideal choice for creating absolutely delicious vegetarian dishes.</p>
+      <p>So let's take a look at some of our favorite types of mushroom. You might not have tried cooking with them before but don't let that put you off. With their delicious, distinctive flavors you can easily transform soups, starters, sauces and create amazing pasta, or stir-fry dishes.</p>
+      <p>Try the lovely <strong>shiitake</strong>. Used in Asian cooking, these can be purchased dried and rehydrated for a strong, deep flavor. Or buy fresh and add to soups and stir-fries. Not only does this mushroom have an intense flavor, it looks lovely too. The deep brown and smooth shapes will provide texture to your meal. In their dried form and rehydrated, these are the perfect addition for a deep and flavorful stock for a risotto.</p>
+      <p>The gorgeous sunny <strong>chanterelle</strong> with its yellow flesh has a fruity flavor - but it is worth mentioning that there are many lookalikes out there and care should be taken to ensure you're eating the right ones. These look great in an omelette or an Asian soup to complement the yellow tones.</p>
+      <p>The brown <strong>morel</strong> offers a meaty and distinctive flavor and you'll probably love how extraordinary they look in a meal. The morel is a more popular mushroom during the spring, when their availability is high.</p>
+      <p>For delicacy try the <strong>enoki</strong> with its tiny white heads that grow in a bunch. These can even be eaten raw in salads. Finally, you can choose the popular <strong>oyster</strong> mushroom. They are named thus because they look nothing like a mushroom and resemble the innards of an oyster and their sweet flavor is delicious.</p>
+    summary: null
+    summary_processed: ''
+field_media_image:
+  -
+    target_type: media
+    target_uuid: 2adb69d7-6cd8-499e-8c7a-97c84149d91e
+field_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 60c958dd-9d81-4edd-9a0f-b7c376f2741a
+  -
+    target_type: taxonomy_term
+    target_uuid: 8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    media:
+      - media.image.2adb69d7-6cd8-499e-8c7a-97c84149d91e
+    taxonomy_term:
+      - taxonomy_term.tags.60c958dd-9d81-4edd-9a0f-b7c376f2741a
+      - taxonomy_term.tags.8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e
+_translations:
+  es:
+    uuid:
+      -
+        value: 385c2f46-2e96-49e8-b3e7-3165a8e978bf
+    langcode:
+      -
+        value: es
+    type:
+      -
+        target_id: article
+        target_type: node_type
+        target_uuid: f1e89877-8495-4ce2-8b34-98670e127297
+    revision_timestamp:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_uid:
+      -
+        target_type: user
+        target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    revision_log: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_type: user
+        target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    title:
+      -
+        value: 'Guía Umami de nuestras setas preferidas'
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    promote:
+      -
+        value: true
+    sticky:
+      -
+        value: false
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    moderation_state:
+      -
+        value: published
+    content_translations:
+      -
+        label: 'The Umami guide to our favorite mushrooms'
+        path: /en/articles/the-umami-guide-to-our-favourite-mushrooms
+        langcode: en
+      -
+        label: 'Guía Umami de nuestras setas preferidas'
+        path: /es/articles/guia-umami-de-nuestras-setas-preferidas
+        langcode: es
+    path:
+      -
+        alias: /articles/guia-umami-de-nuestras-setas-preferidas
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    body:
+      -
+        value: |
+          <p>Creemos que las setas son uno de los ingredientes que más se pueden disfrutar en la cocina. Hay muchas variedades comestibles para probar, cada una con su propia forma, tamaño y sabor distintivos. Y con curiosos nombres como rebozuelo, seta gitana, trompeta de los muertos o frigola frondosa ¿quién no querría saber más sobre cocinar con las poderosas setas?</p>
+          <p>Una de las mejoras cosas que tienen las setas son su versatilidad. Pueden ser fritas, tostadas, asadas al horno oa la parrilla e incluso cocinadas en un microondas. Y pueden ser servidas como ingrediente principal del plato como parte de un conjunto mayor. Esto hace a las setas una opción ideal para crear simples y deliciosos platos vegetarianos.</p>
+          <p>Así que echemos un vistazo a algunos de nuestros tipos preferidos de setas. Es posible que no hayas intentado cocinar con ellas antes, pero no dejes que eso te desanime. Con sus deliciosos y particulares sabores puedes transformar fácilmente sopas, entrantes, salsas y crear increíbles platos de pasta o salteados.</p>
+          <p>Prueba el adorable <strong>shiitake</strong>. Usadas en la cocina asiática, pueden comprarse secos y rehidratados para obtener un sabor fuerte y profundo. O comprarlo fresco y añadirlo a sopas y sofritos. No solo es una seta de intenso sabor, sino también de encantadora apariencia. Las formas de color marrón oscuro y suave proporcionarán textura a su comida. En su forma rehidratada son el complemento perfecto para un caldo o un risotto.</p>
+          <p>La hermosa <strong>rebozuelo</strong> (o chantarela) con su pulpa amarilla, tiene un sabor afrutado, pero vale la pena mencionar que hay muchas variedades parecidas por ahí y se ha de tener cuidado para asegurarse de que se está comiendo la correcta. Quedan muy bien en una tortilla o una sopa asiática para complementar los tonos amarillos.</p>
+          <p>La <strong>morchella</strong> (o morilla) marrón ofrece un sabor carnoso y distintivo y probablemente te encantará lo extraordinaria que se ve en una comida. La morchella es una seta más popular durante la primavera, que es cuando su disponibilidad es más alta.</p>
+          <p>Para algo delicado, pruebe la <strong>enoki</strong>, con sus diminutas cabezas blancas que crecen en un montón. Incluso se pueden comer crudas en ensaladas. Por último, puedes elegir la popular seta <strong>ostra</strong>. Se nombran porque no se parecen en nada a una seta y se asemejan a las entrañas de una ostra y su sabor dulce es delicioso.</p>
+        format: basic_html
+        processed: |
+          <p>Creemos que las setas son uno de los ingredientes que más se pueden disfrutar en la cocina. Hay muchas variedades comestibles para probar, cada una con su propia forma, tamaño y sabor distintivos. Y con curiosos nombres como rebozuelo, seta gitana, trompeta de los muertos o frigola frondosa ¿quién no querría saber más sobre cocinar con las poderosas setas?</p>
+          <p>Una de las mejoras cosas que tienen las setas son su versatilidad. Pueden ser fritas, tostadas, asadas al horno oa la parrilla e incluso cocinadas en un microondas. Y pueden ser servidas como ingrediente principal del plato como parte de un conjunto mayor. Esto hace a las setas una opción ideal para crear simples y deliciosos platos vegetarianos.</p>
+          <p>Así que echemos un vistazo a algunos de nuestros tipos preferidos de setas. Es posible que no hayas intentado cocinar con ellas antes, pero no dejes que eso te desanime. Con sus deliciosos y particulares sabores puedes transformar fácilmente sopas, entrantes, salsas y crear increíbles platos de pasta o salteados.</p>
+          <p>Prueba el adorable <strong>shiitake</strong>. Usadas en la cocina asiática, pueden comprarse secos y rehidratados para obtener un sabor fuerte y profundo. O comprarlo fresco y añadirlo a sopas y sofritos. No solo es una seta de intenso sabor, sino también de encantadora apariencia. Las formas de color marrón oscuro y suave proporcionarán textura a su comida. En su forma rehidratada son el complemento perfecto para un caldo o un risotto.</p>
+          <p>La hermosa <strong>rebozuelo</strong> (o chantarela) con su pulpa amarilla, tiene un sabor afrutado, pero vale la pena mencionar que hay muchas variedades parecidas por ahí y se ha de tener cuidado para asegurarse de que se está comiendo la correcta. Quedan muy bien en una tortilla o una sopa asiática para complementar los tonos amarillos.</p>
+          <p>La <strong>morchella</strong> (o morilla) marrón ofrece un sabor carnoso y distintivo y probablemente te encantará lo extraordinaria que se ve en una comida. La morchella es una seta más popular durante la primavera, que es cuando su disponibilidad es más alta.</p>
+          <p>Para algo delicado, pruebe la <strong>enoki</strong>, con sus diminutas cabezas blancas que crecen en un montón. Incluso se pueden comer crudas en ensaladas. Por último, puedes elegir la popular seta <strong>ostra</strong>. Se nombran porque no se parecen en nada a una seta y se asemejan a las entrañas de una ostra y su sabor dulce es delicioso.</p>
+        summary: null
+        summary_processed: ''
+    field_media_image:
+      -
+        target_type: media
+        target_uuid: 2adb69d7-6cd8-499e-8c7a-97c84149d91e
+    field_tags:
+      -
+        target_type: taxonomy_term
+        target_uuid: 60c958dd-9d81-4edd-9a0f-b7c376f2741a
+      -
+        target_type: taxonomy_term
+        target_uuid: 8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e
+    _content_sync:
+      entity_type: node
+      entity_dependencies:
+        user:
+          - user.user.a47332cb-6edc-47e6-bca1-a3be9a8aff41
+        media:
+          - media.image.2adb69d7-6cd8-499e-8c7a-97c84149d91e
+        taxonomy_term:
+          - taxonomy_term.tags.60c958dd-9d81-4edd-9a0f-b7c376f2741a
+          - taxonomy_term.tags.8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e

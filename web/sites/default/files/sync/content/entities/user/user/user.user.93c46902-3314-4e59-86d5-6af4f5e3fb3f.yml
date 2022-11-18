@@ -1,0 +1,40 @@
+uuid:
+  -
+    value: 93c46902-3314-4e59-86d5-6af4f5e3fb3f
+langcode:
+  -
+    value: en
+name:
+  -
+    value: 'Samuel Adamson'
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-14T07:21:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+user_picture: {  }
+_content_sync:
+  entity_type: user
+  entity_dependencies: {  }
+pass:
+  -
+    value: $S$Ek67onXriKYeHFxvUfx/93IgF0bIMwE9MnQjat5A8UxLGTi4lioR
+    pre_hashed: true
+mail:
+  value: samuel.adamson@example.com
+status:
+  value: '1'
+roles:
+  - authenticated
+  - author

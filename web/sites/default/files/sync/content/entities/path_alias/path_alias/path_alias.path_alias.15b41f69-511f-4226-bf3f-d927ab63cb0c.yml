@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 15b41f69-511f-4226-bf3f-d927ab63cb0c
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/37
+alias:
+  -
+    value: /recipes/borscht-con-costillas-de-cerdo
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

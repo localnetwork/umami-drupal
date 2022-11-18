@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 95e28883-1d29-461f-a33b-f601d30f711d
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/8
+alias:
+  -
+    value: /tags/fiesta-de-coctel
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

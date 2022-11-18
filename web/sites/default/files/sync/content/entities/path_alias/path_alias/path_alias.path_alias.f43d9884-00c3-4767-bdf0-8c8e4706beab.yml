@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f43d9884-00c3-4767-bdf0-8c8e4706beab
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/39
+alias:
+  -
+    value: /recipes/super-easy-vegetarian-pasta-bake
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

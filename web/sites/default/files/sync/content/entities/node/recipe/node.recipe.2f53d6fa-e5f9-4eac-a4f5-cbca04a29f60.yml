@@ -1,0 +1,114 @@
+uuid:
+  -
+    value: 2f53d6fa-e5f9-4eac-a4f5-cbca04a29f60
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: recipe
+    target_type: node_type
+    target_uuid: fed5ec89-5eb9-4fe6-ac6e-4bde8a936732
+revision_timestamp:
+  -
+    value: '2022-11-07T06:09:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5c373917-748e-4271-981c-ed6f0f14a9a9
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5c373917-748e-4271-981c-ed6f0f14a9a9
+title:
+  -
+    value: 'test 11111'
+created:
+  -
+    value: '2022-11-07T06:09:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-07T06:09:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+moderation_state:
+  -
+    value: published
+content_translations:
+  -
+    label: 'test 11111'
+    path: /en/test-21213231
+    langcode: en
+path:
+  -
+    alias: /test-21213231
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_cooking_time:
+  -
+    value: 111
+field_difficulty:
+  -
+    value: medium
+field_ingredients: {  }
+field_media_image:
+  -
+    target_type: media
+    target_uuid: d4912649-dede-4d99-96e5-e16c5566517c
+field_number_of_servings:
+  -
+    value: 111
+field_preparation_time:
+  -
+    value: 111
+field_recipe_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 31ad3cb2-732d-469a-b6e1-8b9fc489d357
+  -
+    target_type: taxonomy_term
+    target_uuid: 6ea514af-8366-44be-8c1f-34128ed3050a
+field_recipe_instruction:
+  -
+    value: "<p>13213231</p>\r\n"
+    format: basic_html
+    processed: |
+      <p>13213231</p>
+field_summary:
+  -
+    value: "<p>23213213212</p>\r\n"
+    format: basic_html
+    processed: |
+      <p>23213213212</p>
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5c373917-748e-4271-981c-ed6f0f14a9a9
+    media:
+      - media.image.d4912649-dede-4d99-96e5-e16c5566517c
+    taxonomy_term:
+      - taxonomy_term.recipe_category.31ad3cb2-732d-469a-b6e1-8b9fc489d357
+      - taxonomy_term.recipe_category.6ea514af-8366-44be-8c1f-34128ed3050a

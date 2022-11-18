@@ -1,0 +1,40 @@
+uuid:
+  -
+    value: a22fbf81-b301-4c5a-8ea1-81ac68db1927
+langcode:
+  -
+    value: en
+name:
+  -
+    value: 'Grace Hamilton'
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:18:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+user_picture: {  }
+_content_sync:
+  entity_type: user
+  entity_dependencies: {  }
+pass:
+  -
+    value: $S$Eyq7FhnpZ7a4fgZsKWuo5qvFhzH1tSs.QWO35QMzFl.mwfb9Valm
+    pre_hashed: true
+mail:
+  value: grace.hamilton@example.com
+status:
+  value: '1'
+roles:
+  - authenticated
+  - editor

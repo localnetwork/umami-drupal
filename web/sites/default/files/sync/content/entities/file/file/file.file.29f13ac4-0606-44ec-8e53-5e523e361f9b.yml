@@ -1,0 +1,33 @@
+uuid:
+  -
+    value: 29f13ac4-0606-44ec-8e53-5e523e361f9b
+langcode:
+  -
+    value: en
+uid: {  }
+filename:
+  -
+    value: victoria-sponge-umami.jpg
+uri:
+  -
+    value: 'public://victoria-sponge-umami.jpg'
+    url: /sites/default/files/victoria-sponge-umami.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 65418
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 60a39b68-7975-4e15-902b-d1b52ce04ee6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/10
+alias:
+  -
+    value: /tags/dessert
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

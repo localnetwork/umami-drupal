@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c05bdf41-6938-4d3d-a0a1-0923eb87da53
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/25
+alias:
+  -
+    value: /tags/soup
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

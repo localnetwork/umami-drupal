@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 33ee74be-7a95-41a4-a500-e2457c732c61
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/42
+alias:
+  -
+    value: /recipes/vegan-chocolate-and-nut-brownies
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

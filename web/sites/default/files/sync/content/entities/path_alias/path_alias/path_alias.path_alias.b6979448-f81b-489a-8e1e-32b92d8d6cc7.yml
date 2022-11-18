@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b6979448-f81b-489a-8e1e-32b92d8d6cc7
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/23
+alias:
+  -
+    value: /tags/estacional
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

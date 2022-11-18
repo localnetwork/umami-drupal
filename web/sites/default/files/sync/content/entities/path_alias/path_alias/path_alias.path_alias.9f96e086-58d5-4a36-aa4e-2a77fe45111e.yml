@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9f96e086-58d5-4a36-aa4e-2a77fe45111e
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/41
+alias:
+  -
+    value: /recipes/quiche-mediterráneo-profundo
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

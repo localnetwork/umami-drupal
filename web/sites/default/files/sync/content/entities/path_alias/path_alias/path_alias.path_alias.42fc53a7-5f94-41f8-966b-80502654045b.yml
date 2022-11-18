@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 42fc53a7-5f94-41f8-966b-80502654045b
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/2
+alias:
+  -
+    value: /tags/horneado
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

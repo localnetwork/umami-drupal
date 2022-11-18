@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: 3bc08872-bd3e-4f1d-a475-016301e97daf
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Watercress soup'
+thumbnail:
+  -
+    alt: 'Watercress soup with a sprig of coriander as garnish in a white bowl with green trim'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: 0411c7f5-5db7-45f9-bf9f-445ffdcd1b1b
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'Watercress soup with a sprig of coriander as garnish in a white bowl with green trim'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: 0411c7f5-5db7-45f9-bf9f-445ffdcd1b1b
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.0411c7f5-5db7-45f9-bf9f-445ffdcd1b1b
+_translations:
+  es:
+    uuid:
+      -
+        value: 3bc08872-bd3e-4f1d-a475-016301e97daf
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Sopa de berro'
+    thumbnail:
+      -
+        alt: 'Sopa de berros con una ramita de cilantro como guarnición en un tazón blanco con borde verde.'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: 0411c7f5-5db7-45f9-bf9f-445ffdcd1b1b
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Sopa de berros con una ramita de cilantro como guarnición en un tazón blanco con borde verde.'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: c5c1072a-80d7-403c-b7c9-eefe934bd689
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.0411c7f5-5db7-45f9-bf9f-445ffdcd1b1b
+          - file.file.c5c1072a-80d7-403c-b7c9-eefe934bd689

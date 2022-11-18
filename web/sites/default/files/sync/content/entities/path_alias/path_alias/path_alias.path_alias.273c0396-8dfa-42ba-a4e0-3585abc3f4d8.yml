@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 273c0396-8dfa-42ba-a4e0-3585abc3f4d8
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/30
+alias:
+  -
+    value: /recipe-category/postres
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

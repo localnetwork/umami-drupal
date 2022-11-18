@@ -1,0 +1,136 @@
+uuid:
+  -
+    value: fd34ba84-b602-403a-99cf-7b8570099365
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: tags
+    target_type: taxonomy_vocabulary
+    target_uuid: 3cf34aae-d974-4fb7-92be-00b4e98758f5
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: Shopping
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tags/shopping
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+content_translation_uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+content_translation_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+_translations:
+  es:
+    uuid:
+      -
+        value: fd34ba84-b602-403a-99cf-7b8570099365
+    langcode:
+      -
+        value: es
+    vid:
+      -
+        target_id: tags
+        target_type: taxonomy_vocabulary
+        target_uuid: 3cf34aae-d974-4fb7-92be-00b4e98758f5
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    name:
+      -
+        value: Compras
+    description:
+      -
+        value: null
+        format: null
+        processed: ''
+    weight:
+      -
+        value: 0
+    parent:
+      -
+        target_id: 0
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: /tags/compras
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    content_translation_uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    content_translation_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    _content_sync:
+      entity_type: taxonomy_term
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab

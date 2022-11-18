@@ -1,0 +1,40 @@
+uuid:
+  -
+    value: 5c373917-748e-4271-981c-ed6f0f14a9a9
+langcode:
+  -
+    value: en
+name:
+  -
+    value: system
+created:
+  -
+    value: '2022-11-04T08:14:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-14T07:21:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+user_picture: {  }
+_content_sync:
+  entity_type: user
+  entity_dependencies: {  }
+pass:
+  -
+    value: $S$EQ/6WbuNOBQtd.b9qLu7MKXyPthCxllB58HVkA0Makb5yF8L5ZWu
+    pre_hashed: true
+mail:
+  value: diome.halcyonwebdesign@gmail.com
+status:
+  value: '1'
+roles:
+  - authenticated
+  - administrator

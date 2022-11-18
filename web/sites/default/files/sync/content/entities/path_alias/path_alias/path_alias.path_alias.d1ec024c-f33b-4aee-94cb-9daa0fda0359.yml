@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d1ec024c-f33b-4aee-94cb-9daa0fda0359
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/13
+alias:
+  -
+    value: /tags/huevo
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

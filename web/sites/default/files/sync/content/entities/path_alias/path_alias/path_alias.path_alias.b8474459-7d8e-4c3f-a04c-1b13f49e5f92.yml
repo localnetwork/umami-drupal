@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b8474459-7d8e-4c3f-a04c-1b13f49e5f92
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/4
+alias:
+  -
+    value: /tags/desayuno
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

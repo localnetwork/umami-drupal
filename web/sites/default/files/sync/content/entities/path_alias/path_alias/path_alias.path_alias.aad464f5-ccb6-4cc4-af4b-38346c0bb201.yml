@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: aad464f5-ccb6-4cc4-af4b-38346c0bb201
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/6
+alias:
+  -
+    value: /tags/carrots
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ee4e634e-05ba-47c2-ba16-16294295f675
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/20
+alias:
+  -
+    value: /tags/party
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

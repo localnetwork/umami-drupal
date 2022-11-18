@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 201d0d98-4bd8-4c2e-adb9-450c97a8a3d6
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/17
+alias:
+  -
+    value: /tags/aprender-a-cocinar
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

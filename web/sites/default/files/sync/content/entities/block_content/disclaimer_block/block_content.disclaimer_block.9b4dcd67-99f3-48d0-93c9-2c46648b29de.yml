@@ -1,0 +1,138 @@
+uuid:
+  -
+    value: 9b4dcd67-99f3-48d0-93c9-2c46648b29de
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: disclaimer_block
+    target_type: block_content_type
+    target_uuid: 78adfe87-d19d-4141-a142-d0466b723b86
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: 'Umami Disclaimer'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+content_translation_uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+content_translation_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_copyright:
+  -
+    value: '&copy; 2022 Terms & Conditions'
+    format: basic_html
+    processed: |
+      <p>© 2022 Terms &amp; Conditions</p>
+field_disclaimer:
+  -
+    value: '<strong>Umami Magazine & Umami Publications</strong> is a fictional magazine and publisher for illustrative purposes only.'
+    format: basic_html
+    processed: |
+      <p><strong>Umami Magazine &amp; Umami Publications</strong> is a fictional magazine and publisher for illustrative purposes only.</p>
+_content_sync:
+  entity_type: block_content
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+_translations:
+  es:
+    uuid:
+      -
+        value: 9b4dcd67-99f3-48d0-93c9-2c46648b29de
+    langcode:
+      -
+        value: es
+    type:
+      -
+        target_id: disclaimer_block
+        target_type: block_content_type
+        target_uuid: 78adfe87-d19d-4141-a142-d0466b723b86
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log: {  }
+    status:
+      -
+        value: true
+    info:
+      -
+        value: 'Aviso Legal Umami'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    reusable:
+      -
+        value: true
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    content_translation_uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    content_translation_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    field_copyright:
+      -
+        value: '&copy; 2022 Términos y Condiciones'
+        format: basic_html
+        processed: |
+          <p>© 2022 Términos y Condiciones</p>
+    field_disclaimer:
+      -
+        value: '<strong>Revista Umami y Publicaciones Umami</strong> es una revista ficticia publicada con propósito ilustrativo sólamente.'
+        format: basic_html
+        processed: |
+          <p><strong>Revista Umami y Publicaciones Umami</strong> es una revista ficticia publicada con propósito ilustrativo sólamente.</p>
+    _content_sync:
+      entity_type: block_content
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab

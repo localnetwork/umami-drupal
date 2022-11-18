@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5f204389-3e7e-435f-91d5-3376886892ac
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/3
+alias:
+  -
+    value: /tags/baking
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

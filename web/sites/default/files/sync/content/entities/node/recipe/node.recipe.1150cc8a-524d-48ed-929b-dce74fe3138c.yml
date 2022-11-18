@@ -1,0 +1,298 @@
+uuid:
+  -
+    value: 1150cc8a-524d-48ed-929b-dce74fe3138c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: recipe
+    target_type: node_type
+    target_uuid: fed5ec89-5eb9-4fe6-ac6e-4bde8a936732
+revision_timestamp:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+title:
+  -
+    value: 'Crema catalana'
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+moderation_state:
+  -
+    value: published
+content_translations:
+  -
+    label: 'Crema catalana'
+    path: /en/recipes/crema-catalana
+    langcode: en
+  -
+    label: 'Crema catalana'
+    path: /es/recipes/crema-catalana
+    langcode: es
+path:
+  -
+    alias: /recipes/crema-catalana
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_cooking_time:
+  -
+    value: 20
+field_difficulty:
+  -
+    value: medium
+field_ingredients:
+  -
+    value: '1l milk'
+  -
+    value: ' 200g sugar'
+  -
+    value: ' 6 egg yolks'
+  -
+    value: ' 30g cornstarch'
+  -
+    value: ' 1 cinnamon stick'
+  -
+    value: ' 1 piece lemon peel'
+field_media_image:
+  -
+    target_type: media
+    target_uuid: 4a8f5851-ccdf-4f76-b2aa-486ef1c78de8
+field_number_of_servings:
+  -
+    value: 8
+field_preparation_time:
+  -
+    value: 10
+field_recipe_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6ea514af-8366-44be-8c1f-34128ed3050a
+field_recipe_instruction:
+  -
+    value: |
+      <ol>
+        <li>Mix the egg yolks, sugar, and cornstarch with 1/3 of the milk.</li>
+        <li>In a saucepan, boil 2/3 of the milk with the lemon peel and cinnamon.</li>
+        <li>After 3 minutes, remove from the heat and take out the lemon and cinnamon.</li>
+        <li>Slowly add the egg mixture to the hot milk through a strainer to ensure there are no lumps.</li>
+        <li>Return it to the heat until it boils, stirring constantly.</li>
+        <li>Once the mixture has begun to thicken, remove from the heat and put it into individual bowls to cool.</li>
+        <li>For an authentic finish, sprinkle with sugar and brown with a blowtorch or under a preheated broiler to caramelize.</li>
+      </ol>
+    format: basic_html
+    processed: |-
+      <ol><li>Mix the egg yolks, sugar, and cornstarch with 1/3 of the milk.</li>
+      <li>In a saucepan, boil 2/3 of the milk with the lemon peel and cinnamon.</li>
+      <li>After 3 minutes, remove from the heat and take out the lemon and cinnamon.</li>
+      <li>Slowly add the egg mixture to the hot milk through a strainer to ensure there are no lumps.</li>
+      <li>Return it to the heat until it boils, stirring constantly.</li>
+      <li>Once the mixture has begun to thicken, remove from the heat and put it into individual bowls to cool.</li>
+      <li>For an authentic finish, sprinkle with sugar and brown with a blowtorch or under a preheated broiler to caramelize.</li>
+      </ol>
+field_summary:
+  -
+    value: 'Enjoy this sweet recipe for one of the oldest desserts in Europe. It requires very few ingredients!'
+    format: basic_html
+    processed: |
+      <p>Enjoy this sweet recipe for one of the oldest desserts in Europe. It requires very few ingredients!</p>
+field_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8266e5c-4888-408b-8827-7cda797265e1
+  -
+    target_type: taxonomy_term
+    target_uuid: 8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    media:
+      - media.image.4a8f5851-ccdf-4f76-b2aa-486ef1c78de8
+    taxonomy_term:
+      - taxonomy_term.recipe_category.6ea514af-8366-44be-8c1f-34128ed3050a
+      - taxonomy_term.tags.a8266e5c-4888-408b-8827-7cda797265e1
+      - taxonomy_term.tags.8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e
+_translations:
+  es:
+    uuid:
+      -
+        value: 1150cc8a-524d-48ed-929b-dce74fe3138c
+    langcode:
+      -
+        value: es
+    type:
+      -
+        target_id: recipe
+        target_type: node_type
+        target_uuid: fed5ec89-5eb9-4fe6-ac6e-4bde8a936732
+    revision_timestamp:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_uid:
+      -
+        target_type: user
+        target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    revision_log: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_type: user
+        target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    title:
+      -
+        value: 'Crema catalana'
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    promote:
+      -
+        value: true
+    sticky:
+      -
+        value: false
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    moderation_state:
+      -
+        value: published
+    content_translations:
+      -
+        label: 'Crema catalana'
+        path: /en/recipes/crema-catalana
+        langcode: en
+      -
+        label: 'Crema catalana'
+        path: /es/recipes/crema-catalana
+        langcode: es
+    path:
+      -
+        alias: /recipes/crema-catalana
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_cooking_time:
+      -
+        value: 20
+    field_difficulty:
+      -
+        value: medium
+    field_ingredients:
+      -
+        value: '1l de Leche'
+      -
+        value: ' 200g de azúcar'
+      -
+        value: ' 6 yemas de huevo'
+      -
+        value: ' 30g de Maizena'
+      -
+        value: ' 1 rama de canela'
+      -
+        value: ' 1 La piel de un limón'
+    field_media_image:
+      -
+        target_type: media
+        target_uuid: 4a8f5851-ccdf-4f76-b2aa-486ef1c78de8
+    field_number_of_servings:
+      -
+        value: 8
+    field_preparation_time:
+      -
+        value: 10
+    field_recipe_category:
+      -
+        target_type: taxonomy_term
+        target_uuid: 6ea514af-8366-44be-8c1f-34128ed3050a
+    field_recipe_instruction:
+      -
+        value: |
+          <ol>
+            <li>Mezcle las yemas de huevo, el azúcar y la harina de maiz con ⅓ de la leche. En un cazo, hierve el resto de la leche con la ralladura de un limón y la canela.</li>
+            <li>Después de 3 minutos, aparte del fuego y quite el limón y la canela.</li>
+            <li>Ve añadiendo muy despacio la mezcla del huevo sobre la leche utilizando un colador para asegurarse que no hay grumos.</li>
+            <li>Coloque el cazo otra vez en el fuego y, sin dejar de remover, espere hasta que hierva.</li>
+            <li>Una vez que la mezcla ha empezado a espesar, apártalo del fuego y ponlo en recipientes individuales para que enfríe.</li>
+            <li>Para un resultado auténtico, esparza un poco de azúcar y caramelízalo con un soplete de cocina o bajo el gratinador del horno.</li>
+          </ol>
+        format: basic_html
+        processed: |-
+          <ol><li>Mezcle las yemas de huevo, el azúcar y la harina de maiz con ⅓ de la leche. En un cazo, hierve el resto de la leche con la ralladura de un limón y la canela.</li>
+          <li>Después de 3 minutos, aparte del fuego y quite el limón y la canela.</li>
+          <li>Ve añadiendo muy despacio la mezcla del huevo sobre la leche utilizando un colador para asegurarse que no hay grumos.</li>
+          <li>Coloque el cazo otra vez en el fuego y, sin dejar de remover, espere hasta que hierva.</li>
+          <li>Una vez que la mezcla ha empezado a espesar, apártalo del fuego y ponlo en recipientes individuales para que enfríe.</li>
+          <li>Para un resultado auténtico, esparza un poco de azúcar y caramelízalo con un soplete de cocina o bajo el gratinador del horno.</li>
+          </ol>
+    field_summary:
+      -
+        value: 'Disfruta de esta dulce receta de uno de los postres más antiguos de Europa. ¡Requiere muy pocos ingredientes!'
+        format: basic_html
+        processed: |
+          <p>Disfruta de esta dulce receta de uno de los postres más antiguos de Europa. ¡Requiere muy pocos ingredientes!</p>
+    field_tags:
+      -
+        target_type: taxonomy_term
+        target_uuid: a8266e5c-4888-408b-8827-7cda797265e1
+      -
+        target_type: taxonomy_term
+        target_uuid: 8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e
+    _content_sync:
+      entity_type: node
+      entity_dependencies:
+        user:
+          - user.user.a47332cb-6edc-47e6-bca1-a3be9a8aff41
+        media:
+          - media.image.4a8f5851-ccdf-4f76-b2aa-486ef1c78de8
+        taxonomy_term:
+          - taxonomy_term.recipe_category.6ea514af-8366-44be-8c1f-34128ed3050a
+          - taxonomy_term.tags.a8266e5c-4888-408b-8827-7cda797265e1
+          - taxonomy_term.tags.8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e

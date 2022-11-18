@@ -1,0 +1,33 @@
+uuid:
+  -
+    value: 5b518631-9e09-4e13-8a03-092293031106
+langcode:
+  -
+    value: en
+uid: {  }
+filename:
+  -
+    value: home-grown-herbs.jpg
+uri:
+  -
+    value: 'public://home-grown-herbs.jpg'
+    url: /sites/default/files/home-grown-herbs.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 114984
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file

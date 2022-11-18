@@ -1,0 +1,250 @@
+uuid:
+  -
+    value: 5e15ed04-ff0b-4e42-b8ac-1791406d2d05
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: f1e89877-8495-4ce2-8b34-98670e127297
+revision_timestamp:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+title:
+  -
+    value: 'Baking mishaps - our troubleshooting tips'
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+moderation_state:
+  -
+    value: published
+content_translations:
+  -
+    label: 'Baking mishaps - our troubleshooting tips'
+    path: /en/articles/baking-mishaps-our-troubleshooting-tips
+    langcode: en
+  -
+    label: 'Percances al hornear - nuestros consejos para solucionar los problemas'
+    path: /es/articles/percances-al-hornear-nuestros-consejos-para-solucionar-problemas
+    langcode: es
+path:
+  -
+    alias: /articles/baking-mishaps-our-troubleshooting-tips
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+body:
+  -
+    value: |
+      <p>You follow the recipe, you weigh all your ingredients, you use the right oven temperature and you take your time and yet still, your baking comes out with a soggy bottom, fails to rise or just tastes plain horrible. We have come up with a list of the most frustrating baking problems and the techniques you can use to try and avoid them.</p>
+      <h2>Your cake failed to rise</h2>
+      <p>Don't under any circumstances open the oven door in the middle of the cooking time. The heat will come whooshing out, destroying the chemical reaction taking place inside your cake. Your raising agent needs the heat to become activated and you might kill it off.</p>
+      <h2>Your cake is chewy and tough</h2>
+      <p>If your light sponge is the consistency of a spare tire, you might have over-mixed your batter. Keep the lightness inside your cake mixture by carefully and gently folding in the ingredients and only to the point they are just mixed. If you over-fold, the gluten in the flour will start to come out and you'll be making bread instead of cake.</p>
+      <h2>Your cookies burned</h2>
+      <p>A great trick is to use light colored bakeware, rather than black. It is less likely to absorb the heat and transfer it to the bottom of your biscuits. Using baking paper will also help with this. Also, using too much sugar can result in your cookies browning too much and giving them a caramelized look.</p>
+      <h2>Split top to your cake or bread</h2>
+      <p>Your oven is very likely too hot. If you suspect your oven doesn't keep to the right temperature, invest in a thermometer and check it regularly throughout the cooking. With bread, over-mixing the dough can result in a cracked or split top.</p>
+      <h2>The dreaded soggy bottom</h2>
+      <p>As mentioned above, the color of your pan is important. In this case, a dark pan will increase the heat at the bottom and give you that crisp underneath that you want. If you are using a flaky pastry, you really need to blind bake it. Putting your pie towards the bottom of the oven will increase the heat reaching that part.</p>
+      <h2>Your pastry has shrunk</h2>
+      <p>You simply tried to make it stretch too far. When rolling, don't try to make it too thin or too big and when draping over your pan, allow it to settle on its own without stretching it to fit. Or just add more pastry - everyone loves pastry anyway!</p>
+    format: basic_html
+    processed: |
+      <p>You follow the recipe, you weigh all your ingredients, you use the right oven temperature and you take your time and yet still, your baking comes out with a soggy bottom, fails to rise or just tastes plain horrible. We have come up with a list of the most frustrating baking problems and the techniques you can use to try and avoid them.</p>
+      <h2>Your cake failed to rise</h2>
+      <p>Don't under any circumstances open the oven door in the middle of the cooking time. The heat will come whooshing out, destroying the chemical reaction taking place inside your cake. Your raising agent needs the heat to become activated and you might kill it off.</p>
+      <h2>Your cake is chewy and tough</h2>
+      <p>If your light sponge is the consistency of a spare tire, you might have over-mixed your batter. Keep the lightness inside your cake mixture by carefully and gently folding in the ingredients and only to the point they are just mixed. If you over-fold, the gluten in the flour will start to come out and you'll be making bread instead of cake.</p>
+      <h2>Your cookies burned</h2>
+      <p>A great trick is to use light colored bakeware, rather than black. It is less likely to absorb the heat and transfer it to the bottom of your biscuits. Using baking paper will also help with this. Also, using too much sugar can result in your cookies browning too much and giving them a caramelized look.</p>
+      <h2>Split top to your cake or bread</h2>
+      <p>Your oven is very likely too hot. If you suspect your oven doesn't keep to the right temperature, invest in a thermometer and check it regularly throughout the cooking. With bread, over-mixing the dough can result in a cracked or split top.</p>
+      <h2>The dreaded soggy bottom</h2>
+      <p>As mentioned above, the color of your pan is important. In this case, a dark pan will increase the heat at the bottom and give you that crisp underneath that you want. If you are using a flaky pastry, you really need to blind bake it. Putting your pie towards the bottom of the oven will increase the heat reaching that part.</p>
+      <h2>Your pastry has shrunk</h2>
+      <p>You simply tried to make it stretch too far. When rolling, don't try to make it too thin or too big and when draping over your pan, allow it to settle on its own without stretching it to fit. Or just add more pastry - everyone loves pastry anyway!</p>
+    summary: null
+    summary_processed: ''
+field_media_image:
+  -
+    target_type: media
+    target_uuid: 86ae8c6f-0c29-4268-af6e-8a9572bdc7bf
+field_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8edfd345-d3ad-4fc3-a46a-c60a65a50629
+  -
+    target_type: taxonomy_term
+    target_uuid: 7e7076b6-353a-47e6-9d55-6d1b4555d03f
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    media:
+      - media.image.86ae8c6f-0c29-4268-af6e-8a9572bdc7bf
+    taxonomy_term:
+      - taxonomy_term.tags.8edfd345-d3ad-4fc3-a46a-c60a65a50629
+      - taxonomy_term.tags.7e7076b6-353a-47e6-9d55-6d1b4555d03f
+_translations:
+  es:
+    uuid:
+      -
+        value: 5e15ed04-ff0b-4e42-b8ac-1791406d2d05
+    langcode:
+      -
+        value: es
+    type:
+      -
+        target_id: article
+        target_type: node_type
+        target_uuid: f1e89877-8495-4ce2-8b34-98670e127297
+    revision_timestamp:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_uid:
+      -
+        target_type: user
+        target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    revision_log: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_type: user
+        target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    title:
+      -
+        value: 'Percances al hornear - nuestros consejos para solucionar los problemas'
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    promote:
+      -
+        value: true
+    sticky:
+      -
+        value: false
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    moderation_state:
+      -
+        value: published
+    content_translations:
+      -
+        label: 'Baking mishaps - our troubleshooting tips'
+        path: /en/articles/baking-mishaps-our-troubleshooting-tips
+        langcode: en
+      -
+        label: 'Percances al hornear - nuestros consejos para solucionar los problemas'
+        path: /es/articles/percances-al-hornear-nuestros-consejos-para-solucionar-problemas
+        langcode: es
+    path:
+      -
+        alias: /articles/percances-al-hornear-nuestros-consejos-para-solucionar-problemas
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    body:
+      -
+        value: |
+          <p>Sigues la receta, pesas todos tus ingredientes, usas la temperatura correcta del horno y te tomas tu tiempo y aún así, tu horneado sale con un fondo empapado, no se eleva o simplemente tiene un sabor horrible. Hemos creado una lista de los problemas de horneado más frustrantes y las técnicas que puedes utilizar para tratar de evitarlos.</p>
+          <h2>Tu pastel no subió</h2>
+          <p>Bajo ninguna circunstancia abras la puerta del horno en medio del tiempo de cocción. El calor saldrá, destruyendo la reacción química que tiene lugar dentro de tu pastel. Tu agente elevador necesita el calor para activarse y podrías matarlo.</p>
+          <h2>Tu pastel es chicloso y correoso</h2>
+          <p>Si tu esponja ligero tiene la consistencia de un neumático de repuesto, es posible que hayas mezclado demasiado la masa. Mantén la ligereza dentro de la mezcla del bizcocho añadiendo cuidadosa y suavemente los ingredientes y sólo hasta el punto en que se mezclen. Si se bate demasiado, el gluten de la harina comenzará a salir y estarás haciendo pan en lugar de pastel.</p>
+          <h2>Tus galletas se quemaron</h2>
+          <p>Un gran truco es usar utensilios para hornear de colores claros, en lugar de negros. Es menos probable que absorba el calor y lo transfiera a la parte inferior de tus galletas. Usar papel para hornear también ayudará con esto. Además, usar demasiada azúcar puede provocar que tus galletas se oscurezcan demasiado y les dé un aspecto caramelizado</p>
+          <h2>Parte superior de tu pastel o pan partida</h2>
+          <p>Es muy probable que tu horno esté demasiado caliente. Si sospechas que tu horno no mantiene la temperatura correcta, invierte en un termómetro y revísalo regularmente durante la cocción. Con el pan, mezclar la masa demasiado puede resultar en una parte superior agrietada o partida.</p>
+          <h2>El temido fondo empapado</h2>
+          <p>Como se mencionó anteriormente, el color de tu sartén es importante. En este caso, una sartén oscura aumentará el calor en la parte inferior y le dará a esa parte inferior el crujiente que deseas. Si estás usando hojaldre, realmente necesitas pre-hornearlo. Poner tu pastel hacia la parte inferior del horno aumentará el calor que llega a esa parte.</p>
+          <h2>Tu pastel se ha encogido</h2>
+          <p>Simplemente intentaste hacer que se estirara demasiado. Al laminar, no intentes hacerla demasiado delgada o demasiado grande y al colocarla sobre la sartén, permite que se asiente por sí sola sin estirarla para que encaje. O simplemente añade más masa - ¡a todo el mundo le encantan los pasteles de todos modos!</p>
+        format: basic_html
+        processed: |
+          <p>Sigues la receta, pesas todos tus ingredientes, usas la temperatura correcta del horno y te tomas tu tiempo y aún así, tu horneado sale con un fondo empapado, no se eleva o simplemente tiene un sabor horrible. Hemos creado una lista de los problemas de horneado más frustrantes y las técnicas que puedes utilizar para tratar de evitarlos.</p>
+          <h2>Tu pastel no subió</h2>
+          <p>Bajo ninguna circunstancia abras la puerta del horno en medio del tiempo de cocción. El calor saldrá, destruyendo la reacción química que tiene lugar dentro de tu pastel. Tu agente elevador necesita el calor para activarse y podrías matarlo.</p>
+          <h2>Tu pastel es chicloso y correoso</h2>
+          <p>Si tu esponja ligero tiene la consistencia de un neumático de repuesto, es posible que hayas mezclado demasiado la masa. Mantén la ligereza dentro de la mezcla del bizcocho añadiendo cuidadosa y suavemente los ingredientes y sólo hasta el punto en que se mezclen. Si se bate demasiado, el gluten de la harina comenzará a salir y estarás haciendo pan en lugar de pastel.</p>
+          <h2>Tus galletas se quemaron</h2>
+          <p>Un gran truco es usar utensilios para hornear de colores claros, en lugar de negros. Es menos probable que absorba el calor y lo transfiera a la parte inferior de tus galletas. Usar papel para hornear también ayudará con esto. Además, usar demasiada azúcar puede provocar que tus galletas se oscurezcan demasiado y les dé un aspecto caramelizado</p>
+          <h2>Parte superior de tu pastel o pan partida</h2>
+          <p>Es muy probable que tu horno esté demasiado caliente. Si sospechas que tu horno no mantiene la temperatura correcta, invierte en un termómetro y revísalo regularmente durante la cocción. Con el pan, mezclar la masa demasiado puede resultar en una parte superior agrietada o partida.</p>
+          <h2>El temido fondo empapado</h2>
+          <p>Como se mencionó anteriormente, el color de tu sartén es importante. En este caso, una sartén oscura aumentará el calor en la parte inferior y le dará a esa parte inferior el crujiente que deseas. Si estás usando hojaldre, realmente necesitas pre-hornearlo. Poner tu pastel hacia la parte inferior del horno aumentará el calor que llega a esa parte.</p>
+          <h2>Tu pastel se ha encogido</h2>
+          <p>Simplemente intentaste hacer que se estirara demasiado. Al laminar, no intentes hacerla demasiado delgada o demasiado grande y al colocarla sobre la sartén, permite que se asiente por sí sola sin estirarla para que encaje. O simplemente añade más masa - ¡a todo el mundo le encantan los pasteles de todos modos!</p>
+        summary: null
+        summary_processed: ''
+    field_media_image:
+      -
+        target_type: media
+        target_uuid: 86ae8c6f-0c29-4268-af6e-8a9572bdc7bf
+    field_tags:
+      -
+        target_type: taxonomy_term
+        target_uuid: 8edfd345-d3ad-4fc3-a46a-c60a65a50629
+      -
+        target_type: taxonomy_term
+        target_uuid: 7e7076b6-353a-47e6-9d55-6d1b4555d03f
+    _content_sync:
+      entity_type: node
+      entity_dependencies:
+        user:
+          - user.user.a47332cb-6edc-47e6-bca1-a3be9a8aff41
+        media:
+          - media.image.86ae8c6f-0c29-4268-af6e-8a9572bdc7bf
+        taxonomy_term:
+          - taxonomy_term.tags.8edfd345-d3ad-4fc3-a46a-c60a65a50629
+          - taxonomy_term.tags.7e7076b6-353a-47e6-9d55-6d1b4555d03f

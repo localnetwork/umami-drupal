@@ -1,0 +1,33 @@
+uuid:
+  -
+    value: 76333b87-3150-4e2f-957d-6fd0368ad80e
+langcode:
+  -
+    value: en
+uid: {  }
+filename:
+  -
+    value: mushrooms-umami.jpg
+uri:
+  -
+    value: 'public://mushrooms-umami.jpg'
+    url: /sites/default/files/mushrooms-umami.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 92740
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file

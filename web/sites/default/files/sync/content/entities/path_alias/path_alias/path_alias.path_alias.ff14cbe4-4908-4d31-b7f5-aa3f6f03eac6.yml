@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ff14cbe4-4908-4d31-b7f5-aa3f6f03eac6
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/15
+alias:
+  -
+    value: /tags/saludable
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

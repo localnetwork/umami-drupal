@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e5711c46-d664-42b6-8b89-2818bb0913f0
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/31
+alias:
+  -
+    value: /recipe-category/platos-principales
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

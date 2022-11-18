@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b945ba0b-bea9-4ac7-89b0-a7247f204dde
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/16
+alias:
+  -
+    value: /tags/hierbas
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

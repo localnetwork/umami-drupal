@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c5be8838-6b4c-432f-bb57-38e6bda61daf
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/40
+alias:
+  -
+    value: /recipes/pizza-sin-gluten
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

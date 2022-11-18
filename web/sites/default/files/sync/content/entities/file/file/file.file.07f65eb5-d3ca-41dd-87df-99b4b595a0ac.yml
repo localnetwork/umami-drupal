@@ -1,0 +1,33 @@
+uuid:
+  -
+    value: 07f65eb5-d3ca-41dd-87df-99b4b595a0ac
+langcode:
+  -
+    value: en
+uid: {  }
+filename:
+  -
+    value: supermarket-savvy-umami.jpg
+uri:
+  -
+    value: 'public://supermarket-savvy-umami.jpg'
+    url: /sites/default/files/supermarket-savvy-umami.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 100645
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file

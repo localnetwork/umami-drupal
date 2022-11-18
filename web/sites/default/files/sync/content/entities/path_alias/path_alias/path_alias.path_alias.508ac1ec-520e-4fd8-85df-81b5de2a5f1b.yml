@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 508ac1ec-520e-4fd8-85df-81b5de2a5f1b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/22
+alias:
+  -
+    value: /tags/pastry
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

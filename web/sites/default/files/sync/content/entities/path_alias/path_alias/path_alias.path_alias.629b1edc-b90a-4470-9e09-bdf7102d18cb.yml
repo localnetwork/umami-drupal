@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 629b1edc-b90a-4470-9e09-bdf7102d18cb
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/27
+alias:
+  -
+    value: /tags/vegan
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

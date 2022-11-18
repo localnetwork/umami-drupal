@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: f950377c-7dc8-49c0-a6d5-00bc0b984817
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Fiery chili sauce'
+thumbnail:
+  -
+    alt: 'An iridescent array of chilies, onions, and garlic, slowly sweating over a low heat'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: b01fcf2d-d8e4-4f72-8881-a4ed34918016
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'An iridescent array of chilies, onions, and garlic, slowly sweating over a low heat'
+    title: null
+    width: 768
+    height: 512
+    target_type: file
+    target_uuid: b01fcf2d-d8e4-4f72-8881-a4ed34918016
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.b01fcf2d-d8e4-4f72-8881-a4ed34918016
+_translations:
+  es:
+    uuid:
+      -
+        value: f950377c-7dc8-49c0-a6d5-00bc0b984817
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Salsa de chile ardiente'
+    thumbnail:
+      -
+        alt: 'Una variedad iridiscente de chiles, cebollas y ajo, que suda lentamente a fuego lento'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: b01fcf2d-d8e4-4f72-8881-a4ed34918016
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Una variedad iridiscente de chiles, cebollas y ajo, que suda lentamente a fuego lento'
+        title: null
+        width: 768
+        height: 512
+        target_type: file
+        target_uuid: 569f8602-f831-49bf-a3d4-466b08d5b211
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.b01fcf2d-d8e4-4f72-8881-a4ed34918016
+          - file.file.569f8602-f831-49bf-a3d4-466b08d5b211

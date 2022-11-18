@@ -1,0 +1,33 @@
+uuid:
+  -
+    value: 27d28828-9f5d-4ae1-aba0-2694cb7c244d
+langcode:
+  -
+    value: en
+uid: {  }
+filename:
+  -
+    value: crema-catalana-umami.jpg
+uri:
+  -
+    value: 'public://crema-catalana-umami.jpg'
+    url: /sites/default/files/crema-catalana-umami.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 62307
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file

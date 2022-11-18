@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5b7a4d69-a212-4649-b6d1-eedd147d70bd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/19
+alias:
+  -
+    value: /tags/oats
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

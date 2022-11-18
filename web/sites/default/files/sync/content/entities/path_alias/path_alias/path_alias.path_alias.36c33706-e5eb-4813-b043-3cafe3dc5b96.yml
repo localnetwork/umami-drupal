@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 36c33706-e5eb-4813-b043-3cafe3dc5b96
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/39
+alias:
+  -
+    value: /recipes/pasta-vegetariana-horno-super-facil
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

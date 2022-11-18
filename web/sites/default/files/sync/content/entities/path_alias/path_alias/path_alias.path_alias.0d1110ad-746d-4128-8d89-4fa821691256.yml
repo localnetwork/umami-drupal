@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0d1110ad-746d-4128-8d89-4fa821691256
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/16
+alias:
+  -
+    value: /tags/herbs
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

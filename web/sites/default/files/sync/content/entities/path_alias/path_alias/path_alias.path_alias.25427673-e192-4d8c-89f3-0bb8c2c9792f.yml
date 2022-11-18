@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 25427673-e192-4d8c-89f3-0bb8c2c9792f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/45
+alias:
+  -
+    value: /alias-ryan
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

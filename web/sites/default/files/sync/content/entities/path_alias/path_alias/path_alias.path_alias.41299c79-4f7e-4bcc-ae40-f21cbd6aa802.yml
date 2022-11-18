@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 41299c79-4f7e-4bcc-ae40-f21cbd6aa802
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /taxonomy/term/14
+alias:
+  -
+    value: /tags/cultiva-los-tuyos
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,324 @@
+uuid:
+  -
+    value: 81615aa4-7766-41be-ba48-5f0f4b334408
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: f1e89877-8495-4ce2-8b34-98670e127297
+revision_timestamp:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+revision_log:
+  -
+    value: 'Updated the <em class="placeholder">Title</em> field through in-place editing.'
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+title:
+  -
+    value: 'Give your oatmeal the ultimate makeover test'
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-07T06:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+moderation_state:
+  -
+    value: published
+content_translations:
+  -
+    label: 'Give your oatmeal the ultimate makeover test'
+    path: /en/articles/give-your-oatmeal-the-ultimate-makeover
+    langcode: en
+  -
+    label: 'Dale a tu avena el cambio de imagen definitivo'
+    path: /es/articles/dale-a-tu-avena-el-cambio-de-imagen-definitivo
+    langcode: es
+path:
+  -
+    alias: /articles/give-your-oatmeal-the-ultimate-makeover
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+body:
+  -
+    value: |
+      <p>
+      It is vegan, gluten-free, low in fat, high in fiber, and can even lower cholesterol - but oatmeal is boring, right? Well, before you write off that boring jar of oats, you might want to take inspiration from our topping ideas that will take your oatmeal from bland to creatively delicious in just a few minutes.
+      </p>
+
+      <p>
+      Call it oatmeal, porridge, hot cereal, or just plain oats, it is loved the world over; but recently, the humble oat is getting a funky makeover. Long gone are the days of stodgy breakfast bowls of thick gloop, because oats are getting served up as a delicious meal that can suit any time of the day. Trendy build-your-own oatmeal bars are popping up, and they are providing the ultimate oatmeal experience. Diners can choose their oats to be made with milk or water and then go to town with their choice of favorite toppings - sweet, savory, or even spicy.
+      </p>
+
+      <p>
+      It sounds great, doesn’t it? So before you close the cupboard door on that bland-looking jar of oats, we think you should try some of these scrumptious topping ideas to inspire your very own oatmeal makeover.
+      </p>
+
+
+      <h2>Soaked dried fruit</h2>
+
+      <p>
+      Sometimes plain dried fruit can be a bit chewy and harsh when combined with creamy oats. But if you simply soak your dried fruit in orange juice overnight, they develop a tang, and they swell up, making them softer and even more delicious. Plus the splash of color can really brighten your day.
+      </p>
+
+
+      <h2>Porridge crème brûlée</h2>
+
+      <p>
+      So simple - but why has no one thought of it before? Put your cooked oatmeal into a ramekin, sprinkle with sugar, and pop under the grill. The sugar will harden, giving you the delight of cracking through the surface and scooping out the creamy deliciousness beneath. If you are really professional, you can use a blow torch.
+      </p>
+
+      <h2>Super seeds</h2>
+
+      <p>
+      For a more savory meal option, cook your oats with water, a little salt, and sprinkle with toasted seeds. You can choose any that you enjoy, but pumpkin seeds, sesame, linseed, and sunflower seeds are especially good. Some supermarkets also sell seed blends to make the job even easier.
+      </p>
+
+      <h2>Deconstructed carrot cake</h2>
+
+      <p>
+      Cook your oats with grated carrots and a little sugar, then top with a sprinkle of cinnamon, chopped walnuts, and a dollop of sweetened cream cheese. If you don’t love this, there’s something wrong with your taste buds.
+      </p>
+
+      <h2>Dark chocolate</h2>
+
+      <p>
+      This low-sugar delight will meet all of those chocolate cravings and is the perfect dessert. Add a spoonful of cocoa to your oatmeal as it cooks, then top with a few squares of dark chocolate. As it melts, simply swirl into the bowl as artfully as you can. If you are really decadent, a squirt of whipped cream will add further delights.
+      </p>
+    format: basic_html
+    processed: |
+      <p>
+      It is vegan, gluten-free, low in fat, high in fiber, and can even lower cholesterol - but oatmeal is boring, right? Well, before you write off that boring jar of oats, you might want to take inspiration from our topping ideas that will take your oatmeal from bland to creatively delicious in just a few minutes.
+      </p>
+      <p>
+      Call it oatmeal, porridge, hot cereal, or just plain oats, it is loved the world over; but recently, the humble oat is getting a funky makeover. Long gone are the days of stodgy breakfast bowls of thick gloop, because oats are getting served up as a delicious meal that can suit any time of the day. Trendy build-your-own oatmeal bars are popping up, and they are providing the ultimate oatmeal experience. Diners can choose their oats to be made with milk or water and then go to town with their choice of favorite toppings - sweet, savory, or even spicy.
+      </p>
+      <p>
+      It sounds great, doesn’t it? So before you close the cupboard door on that bland-looking jar of oats, we think you should try some of these scrumptious topping ideas to inspire your very own oatmeal makeover.
+      </p>
+      <h2>Soaked dried fruit</h2>
+      <p>
+      Sometimes plain dried fruit can be a bit chewy and harsh when combined with creamy oats. But if you simply soak your dried fruit in orange juice overnight, they develop a tang, and they swell up, making them softer and even more delicious. Plus the splash of color can really brighten your day.
+      </p>
+      <h2>Porridge crème brûlée</h2>
+      <p>
+      So simple - but why has no one thought of it before? Put your cooked oatmeal into a ramekin, sprinkle with sugar, and pop under the grill. The sugar will harden, giving you the delight of cracking through the surface and scooping out the creamy deliciousness beneath. If you are really professional, you can use a blow torch.
+      </p>
+      <h2>Super seeds</h2>
+      <p>
+      For a more savory meal option, cook your oats with water, a little salt, and sprinkle with toasted seeds. You can choose any that you enjoy, but pumpkin seeds, sesame, linseed, and sunflower seeds are especially good. Some supermarkets also sell seed blends to make the job even easier.
+      </p>
+      <h2>Deconstructed carrot cake</h2>
+      <p>
+      Cook your oats with grated carrots and a little sugar, then top with a sprinkle of cinnamon, chopped walnuts, and a dollop of sweetened cream cheese. If you don’t love this, there’s something wrong with your taste buds.
+      </p>
+      <h2>Dark chocolate</h2>
+      <p>
+      This low-sugar delight will meet all of those chocolate cravings and is the perfect dessert. Add a spoonful of cocoa to your oatmeal as it cooks, then top with a few squares of dark chocolate. As it melts, simply swirl into the bowl as artfully as you can. If you are really decadent, a squirt of whipped cream will add further delights.
+      </p>
+    summary: null
+    summary_processed: ''
+field_media_image:
+  -
+    target_type: media
+    target_uuid: dd0671a9-79cd-4fab-8c24-d9bcaa49ff23
+field_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6b1710df-d523-499f-9a03-5161163ceb39
+  -
+    target_type: taxonomy_term
+    target_uuid: 8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e
+  -
+    target_type: taxonomy_term
+    target_uuid: e58b5191-330d-4398-96c6-dec543a3ba38
+  -
+    target_type: taxonomy_term
+    target_uuid: 2983f6d2-383b-4015-b450-fb305e123679
+  -
+    target_type: taxonomy_term
+    target_uuid: af8362fb-01fb-453f-87af-4e050b8940ff
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    media:
+      - media.image.dd0671a9-79cd-4fab-8c24-d9bcaa49ff23
+    taxonomy_term:
+      - taxonomy_term.tags.6b1710df-d523-499f-9a03-5161163ceb39
+      - taxonomy_term.tags.8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e
+      - taxonomy_term.tags.e58b5191-330d-4398-96c6-dec543a3ba38
+      - taxonomy_term.tags.2983f6d2-383b-4015-b450-fb305e123679
+      - taxonomy_term.tags.af8362fb-01fb-453f-87af-4e050b8940ff
+_translations:
+  es:
+    uuid:
+      -
+        value: 81615aa4-7766-41be-ba48-5f0f4b334408
+    langcode:
+      -
+        value: es
+    type:
+      -
+        target_id: article
+        target_type: node_type
+        target_uuid: f1e89877-8495-4ce2-8b34-98670e127297
+    revision_timestamp:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_uid:
+      -
+        target_type: user
+        target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    revision_log:
+      -
+        value: 'Updated the <em class="placeholder">Title</em> field through in-place editing.'
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_type: user
+        target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
+    title:
+      -
+        value: 'Dale a tu avena el cambio de imagen definitivo'
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    promote:
+      -
+        value: true
+    sticky:
+      -
+        value: false
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    moderation_state:
+      -
+        value: published
+    content_translations:
+      -
+        label: 'Give your oatmeal the ultimate makeover test'
+        path: /en/articles/give-your-oatmeal-the-ultimate-makeover
+        langcode: en
+      -
+        label: 'Dale a tu avena el cambio de imagen definitivo'
+        path: /es/articles/dale-a-tu-avena-el-cambio-de-imagen-definitivo
+        langcode: es
+    path:
+      -
+        alias: /articles/dale-a-tu-avena-el-cambio-de-imagen-definitivo
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    body:
+      -
+        value: |
+          <p>Es vegano, libre de gluten, bajo en grasa, alto en fibra e incluso puede reducir el colesterol, pero la harina de avena es aburrida, ¿verdad? Pero, antes de descartar ese aburrido jarrón de avena, es posible que desee inspirarse en nuestras ideas principales que harán que su avena sea insípida a creativa en sólo unos minutos.</p>
+          <p>Llámelo avena, avena, cereal caliente o simplemente avena, es amado en todo el mundo; pero recientemente, la avena humilde está recibiendo un cambio de imagen funky. Atrás quedaron los días de tartas de desayuno pesadas y gruesas, porque la avena se sirve como una deliciosa comida que puede adaptarse a cualquier momento del día. Están surgiendo las modernas barras de avena para construir su propia harina de avena, y brindan la mejor experiencia de avena. Los comensales pueden elegir su avena para hacerla con leche o agua y luego ir a la ciudad con sus ingredientes favoritos: dulce, salado o incluso picante.</p>
+          <p>Suena genial, ¿no es así? Así que antes de cerrar la puerta de la alacena en ese frasco de avena de aspecto insípido, creemos que deberías probar algunas de estas deliciosas ideas para inspirar tu propio cambio de imagen.</p>
+          <h2>Frutas secas empapadas</h2>
+          <p>A veces, las frutas secas simples pueden ser un poco blandas y ásperas cuando se combinan con avena cremosa. Pero si simplemente remoja su fruta seca en jugo de naranja durante la noche, desarrollarán una espiga y se hincharán, haciéndolos más suaves y aún más deliciosos. Además, el toque de color realmente puede alegrar su día.</p>
+          <h2>Crème brûlée gachas</h2>
+          <p>Tan simple, pero ¿por qué nadie lo ha pensado antes? Ponga su harina de avena cocida en un molde, espolvoree con azúcar y revuelva debajo de la parrilla. El azúcar se endurecerá, lo que te dará el placer de resquebrajarse en la superficie y extraer la deliciosa cremosidad que se encuentra debajo. Si eres realmente profesional, puedes usar un soplete.</p>
+          <h2>Súper semillas</h2>
+          <p>Para una opción de comida más sabrosa, cocine su avena con agua, un poco de sal y espolvoree con semillas tostadas. Puede elegir cualquiera que disfrute, pero las semillas de calabaza, sésamo, linaza y girasol son especialmente buenas. Algunos supermercados también venden mezclas de semillas para facilitar aún más el trabajo.</p>
+          <h2>Torta De Zanahoria Deconstruida</h2>
+          <p>Cocina la avena con zanahorias ralladas y un poco de azúcar, luego cubre con una pizca de canela, nueces picadas y una cucharada de queso crema endulzado. Si no te gusta esto, hay algo mal con tus papilas gustativas.</p>
+          <h2>El Chocolate Oscuro</h2>
+          <p>Esta delicia baja en azúcar cumplirá con todos esos antojos de chocolate y es el postre perfecto. Agregue una cucharada de cacao a su avena mientras se cocina, luego cubra con unos cuadrados de chocolate oscuro. A medida que se derrite, simplemente gíralos en el tazón tan ingeniosamente como puedas. Si eres realmente decadente, un chorrito de crema batida agregará más placeres.</p>
+        format: basic_html
+        processed: |
+          <p>Es vegano, libre de gluten, bajo en grasa, alto en fibra e incluso puede reducir el colesterol, pero la harina de avena es aburrida, ¿verdad? Pero, antes de descartar ese aburrido jarrón de avena, es posible que desee inspirarse en nuestras ideas principales que harán que su avena sea insípida a creativa en sólo unos minutos.</p>
+          <p>Llámelo avena, avena, cereal caliente o simplemente avena, es amado en todo el mundo; pero recientemente, la avena humilde está recibiendo un cambio de imagen funky. Atrás quedaron los días de tartas de desayuno pesadas y gruesas, porque la avena se sirve como una deliciosa comida que puede adaptarse a cualquier momento del día. Están surgiendo las modernas barras de avena para construir su propia harina de avena, y brindan la mejor experiencia de avena. Los comensales pueden elegir su avena para hacerla con leche o agua y luego ir a la ciudad con sus ingredientes favoritos: dulce, salado o incluso picante.</p>
+          <p>Suena genial, ¿no es así? Así que antes de cerrar la puerta de la alacena en ese frasco de avena de aspecto insípido, creemos que deberías probar algunas de estas deliciosas ideas para inspirar tu propio cambio de imagen.</p>
+          <h2>Frutas secas empapadas</h2>
+          <p>A veces, las frutas secas simples pueden ser un poco blandas y ásperas cuando se combinan con avena cremosa. Pero si simplemente remoja su fruta seca en jugo de naranja durante la noche, desarrollarán una espiga y se hincharán, haciéndolos más suaves y aún más deliciosos. Además, el toque de color realmente puede alegrar su día.</p>
+          <h2>Crème brûlée gachas</h2>
+          <p>Tan simple, pero ¿por qué nadie lo ha pensado antes? Ponga su harina de avena cocida en un molde, espolvoree con azúcar y revuelva debajo de la parrilla. El azúcar se endurecerá, lo que te dará el placer de resquebrajarse en la superficie y extraer la deliciosa cremosidad que se encuentra debajo. Si eres realmente profesional, puedes usar un soplete.</p>
+          <h2>Súper semillas</h2>
+          <p>Para una opción de comida más sabrosa, cocine su avena con agua, un poco de sal y espolvoree con semillas tostadas. Puede elegir cualquiera que disfrute, pero las semillas de calabaza, sésamo, linaza y girasol son especialmente buenas. Algunos supermercados también venden mezclas de semillas para facilitar aún más el trabajo.</p>
+          <h2>Torta De Zanahoria Deconstruida</h2>
+          <p>Cocina la avena con zanahorias ralladas y un poco de azúcar, luego cubre con una pizca de canela, nueces picadas y una cucharada de queso crema endulzado. Si no te gusta esto, hay algo mal con tus papilas gustativas.</p>
+          <h2>El Chocolate Oscuro</h2>
+          <p>Esta delicia baja en azúcar cumplirá con todos esos antojos de chocolate y es el postre perfecto. Agregue una cucharada de cacao a su avena mientras se cocina, luego cubra con unos cuadrados de chocolate oscuro. A medida que se derrite, simplemente gíralos en el tazón tan ingeniosamente como puedas. Si eres realmente decadente, un chorrito de crema batida agregará más placeres.</p>
+        summary: null
+        summary_processed: ''
+    field_media_image:
+      -
+        target_type: media
+        target_uuid: dd0671a9-79cd-4fab-8c24-d9bcaa49ff23
+    field_tags:
+      -
+        target_type: taxonomy_term
+        target_uuid: 6b1710df-d523-499f-9a03-5161163ceb39
+      -
+        target_type: taxonomy_term
+        target_uuid: 8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e
+      -
+        target_type: taxonomy_term
+        target_uuid: e58b5191-330d-4398-96c6-dec543a3ba38
+      -
+        target_type: taxonomy_term
+        target_uuid: 2983f6d2-383b-4015-b450-fb305e123679
+      -
+        target_type: taxonomy_term
+        target_uuid: af8362fb-01fb-453f-87af-4e050b8940ff
+    _content_sync:
+      entity_type: node
+      entity_dependencies:
+        user:
+          - user.user.a47332cb-6edc-47e6-bca1-a3be9a8aff41
+        media:
+          - media.image.dd0671a9-79cd-4fab-8c24-d9bcaa49ff23
+        taxonomy_term:
+          - taxonomy_term.tags.6b1710df-d523-499f-9a03-5161163ceb39
+          - taxonomy_term.tags.8a8269dd-28d3-45c1-a0d7-fc4c892f4b3e
+          - taxonomy_term.tags.e58b5191-330d-4398-96c6-dec543a3ba38
+          - taxonomy_term.tags.2983f6d2-383b-4015-b450-fb305e123679
+          - taxonomy_term.tags.af8362fb-01fb-453f-87af-4e050b8940ff

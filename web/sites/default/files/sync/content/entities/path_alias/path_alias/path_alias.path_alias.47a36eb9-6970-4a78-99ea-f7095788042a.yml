@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 47a36eb9-6970-4a78-99ea-f7095788042a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/13
+alias:
+  -
+    value: /tags/egg
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

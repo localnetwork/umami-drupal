@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a422d33b-be0b-4cab-a226-38c169b60b84
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/28
+alias:
+  -
+    value: /tags/vegetarian
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

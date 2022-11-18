@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2a950415-207a-4be7-8af2-bf677f9af8b8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/28
+alias:
+  -
+    value: /articles/skip-the-spirits-with-delicious-mocktails
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

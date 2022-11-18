@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 41fa6dce-91ff-47a7-bc82-bc1a6e4a304b
+langcode:
+  -
+    value: es
+path:
+  -
+    value: /node/30
+alias:
+  -
+    value: /articles/un-aplauso-para-las-zanahorias
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

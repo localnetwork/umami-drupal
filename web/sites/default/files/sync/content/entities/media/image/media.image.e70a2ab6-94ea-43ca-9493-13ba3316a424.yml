@@ -1,0 +1,155 @@
+uuid:
+  -
+    value: e70a2ab6-94ea-43ca-9493-13ba3316a424
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+name:
+  -
+    value: 'Heritage Carrots'
+thumbnail:
+  -
+    alt: 'Purple, orange, yellow and white heritage carrots'
+    title: null
+    width: 768
+    height: 511
+    target_type: file
+    target_uuid: c3b92dd5-90ea-4f98-9371-ef9e8ecbeccf
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+field_media_image:
+  -
+    alt: 'Purple, orange, yellow and white heritage carrots'
+    title: null
+    width: 768
+    height: 511
+    target_type: file
+    target_uuid: c3b92dd5-90ea-4f98-9371-ef9e8ecbeccf
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    file:
+      - file.file.c3b92dd5-90ea-4f98-9371-ef9e8ecbeccf
+_translations:
+  es:
+    uuid:
+      -
+        value: e70a2ab6-94ea-43ca-9493-13ba3316a424
+    langcode:
+      -
+        value: es
+    bundle:
+      -
+        target_id: image
+        target_type: media_type
+        target_uuid: de30e227-4fac-4441-a780-612c02c66c9a
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log_message: {  }
+    status:
+      -
+        value: true
+    uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    name:
+      -
+        value: 'Un aplauso para las zanahorias'
+    thumbnail:
+      -
+        alt: 'Zanahorias moradas, naranjas, amarillas y blancas.'
+        title: null
+        width: 768
+        height: 511
+        target_type: file
+        target_uuid: c3b92dd5-90ea-4f98-9371-ef9e8ecbeccf
+    created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    path:
+      -
+        alias: null
+        pid: null
+        langcode: es
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    field_media_image:
+      -
+        alt: 'Zanahorias moradas, naranjas, amarillas y blancas.'
+        title: null
+        width: 768
+        height: 511
+        target_type: file
+        target_uuid: 5bf43e50-1d13-4888-b6a9-3d8b8ab90ccf
+    _content_sync:
+      entity_type: media
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        file:
+          - file.file.c3b92dd5-90ea-4f98-9371-ef9e8ecbeccf
+          - file.file.5bf43e50-1d13-4888-b6a9-3d8b8ab90ccf

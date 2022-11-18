@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b17ebf14-74ce-4573-ba2f-8fb61160a9a0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/23
+alias:
+  -
+    value: /tags/seasonal
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

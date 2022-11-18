@@ -1,0 +1,40 @@
+uuid:
+  -
+    value: deab63d2-ac0e-40e5-9e52-b2022a2341b1
+langcode:
+  -
+    value: en
+name:
+  -
+    value: 'Holly Foat'
+created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-11-14T07:21:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+user_picture: {  }
+_content_sync:
+  entity_type: user
+  entity_dependencies: {  }
+pass:
+  -
+    value: $S$EpORzDPsv/TSxsthOLlA6ZsQrAokgGa6Dd83WX7yncLXt7piSv.h
+    pre_hashed: true
+mail:
+  value: holly.foat@example.com
+status:
+  value: '1'
+roles:
+  - authenticated
+  - author

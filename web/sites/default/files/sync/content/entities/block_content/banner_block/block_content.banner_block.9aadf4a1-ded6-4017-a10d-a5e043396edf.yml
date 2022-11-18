@@ -1,0 +1,148 @@
+uuid:
+  -
+    value: 9aadf4a1-ded6-4017-a10d-a5e043396edf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: banner_block
+    target_type: block_content_type
+    target_uuid: efa69436-3005-457b-9f18-fb09beeb6316
+revision_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: 'Umami Home Banner'
+changed:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+content_translation_source:
+  -
+    value: und
+content_translation_outdated:
+  -
+    value: false
+content_translation_uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+content_translation_created:
+  -
+    value: '2022-11-04T08:14:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_content_link:
+  -
+    uri: 'internal:/en/recipes/super-easy-vegetarian-pasta-bake'
+    title: 'View recipe'
+    options: {  }
+field_media_image:
+  -
+    target_type: media
+    target_uuid: f34056bc-c769-4eb4-b9ff-e236a3221531
+field_summary:
+  -
+    value: 'A wholesome pasta bake is the ultimate comfort food. This delicious bake is super quick to prepare and an ideal midweek meal for all the family.'
+field_title:
+  -
+    value: 'Super easy vegetarian pasta bake'
+_content_sync:
+  entity_type: block_content
+  entity_dependencies:
+    user:
+      - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    media:
+      - media.image.f34056bc-c769-4eb4-b9ff-e236a3221531
+_translations:
+  es:
+    uuid:
+      -
+        value: 9aadf4a1-ded6-4017-a10d-a5e043396edf
+    langcode:
+      -
+        value: es
+    type:
+      -
+        target_id: banner_block
+        target_type: block_content_type
+        target_uuid: efa69436-3005-457b-9f18-fb09beeb6316
+    revision_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    revision_user: {  }
+    revision_log: {  }
+    status:
+      -
+        value: true
+    info:
+      -
+        value: 'Umami Casa Pancarta'
+    changed:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    reusable:
+      -
+        value: true
+    default_langcode:
+      -
+        value: false
+    revision_translation_affected:
+      -
+        value: true
+    content_translation_source:
+      -
+        value: und
+    content_translation_outdated:
+      -
+        value: false
+    content_translation_uid:
+      -
+        target_id: 0
+        target_type: user
+        target_uuid: fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+    content_translation_created:
+      -
+        value: '2022-11-04T08:14:26+00:00'
+        format: 'Y-m-d\TH:i:sP'
+    field_content_link:
+      -
+        uri: 'internal:/es/recipes/pasta-vegetariana-horno-super-facil'
+        title: 'Ver receta'
+        options: {  }
+    field_media_image:
+      -
+        target_type: media
+        target_uuid: f34056bc-c769-4eb4-b9ff-e236a3221531
+    field_summary:
+      -
+        value: 'Una pasta al horno es la comida más reconfortante que hay. Este plato al horno es súper rápido de preparar y es ideal para cocinar entre semana para toda la familia.'
+    field_title:
+      -
+        value: 'Pasta vegetariana horneada súper fácil'
+    _content_sync:
+      entity_type: block_content
+      entity_dependencies:
+        user:
+          - user.user.fdd9520d-7582-4418-be53-b8c8d9e9b9ab
+        media:
+          - media.image.f34056bc-c769-4eb4-b9ff-e236a3221531
