@@ -11,15 +11,13 @@ type:
     target_uuid: f1e89877-8495-4ce2-8b34-98670e127297
 revision_timestamp:
   -
-    value: '2022-11-04T08:14:26+00:00'
+    value: '2022-11-22T06:15:07+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_uid:
   -
     target_type: user
-    target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
-revision_log:
-  -
-    value: 'Updated the <em class="placeholder">Title</em> field through in-place editing.'
+    target_uuid: 5c373917-748e-4271-981c-ed6f0f14a9a9
+revision_log: {  }
 status:
   -
     value: true
@@ -36,7 +34,7 @@ created:
     format: 'Y-m-d\TH:i:sP'
 changed:
   -
-    value: '2022-11-07T06:03:00+00:00'
+    value: '2022-11-22T06:15:07+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   -
@@ -47,22 +45,24 @@ sticky:
 default_langcode:
   -
     value: true
-revision_translation_affected: {  }
+revision_translation_affected:
+  -
+    value: true
 moderation_state:
   -
     value: published
 content_translations:
   -
     label: 'Give your oatmeal the ultimate makeover test'
-    path: /en/articles/give-your-oatmeal-the-ultimate-makeover
+    path: /en/articles/give-your-oatmeal-ultimate-makeover-test
     langcode: en
   -
     label: 'Dale a tu avena el cambio de imagen definitivo'
-    path: /es/articles/dale-a-tu-avena-el-cambio-de-imagen-definitivo
+    path: /es/node/32
     langcode: es
 path:
   -
-    alias: /articles/give-your-oatmeal-the-ultimate-makeover
+    alias: /articles/give-your-oatmeal-ultimate-makeover-test
 content_translation_source:
   -
     value: und
@@ -71,83 +71,25 @@ content_translation_outdated:
     value: false
 body:
   -
-    value: |
-      <p>
-      It is vegan, gluten-free, low in fat, high in fiber, and can even lower cholesterol - but oatmeal is boring, right? Well, before you write off that boring jar of oats, you might want to take inspiration from our topping ideas that will take your oatmeal from bland to creatively delicious in just a few minutes.
-      </p>
-
-      <p>
-      Call it oatmeal, porridge, hot cereal, or just plain oats, it is loved the world over; but recently, the humble oat is getting a funky makeover. Long gone are the days of stodgy breakfast bowls of thick gloop, because oats are getting served up as a delicious meal that can suit any time of the day. Trendy build-your-own oatmeal bars are popping up, and they are providing the ultimate oatmeal experience. Diners can choose their oats to be made with milk or water and then go to town with their choice of favorite toppings - sweet, savory, or even spicy.
-      </p>
-
-      <p>
-      It sounds great, doesn’t it? So before you close the cupboard door on that bland-looking jar of oats, we think you should try some of these scrumptious topping ideas to inspire your very own oatmeal makeover.
-      </p>
-
-
-      <h2>Soaked dried fruit</h2>
-
-      <p>
-      Sometimes plain dried fruit can be a bit chewy and harsh when combined with creamy oats. But if you simply soak your dried fruit in orange juice overnight, they develop a tang, and they swell up, making them softer and even more delicious. Plus the splash of color can really brighten your day.
-      </p>
-
-
-      <h2>Porridge crème brûlée</h2>
-
-      <p>
-      So simple - but why has no one thought of it before? Put your cooked oatmeal into a ramekin, sprinkle with sugar, and pop under the grill. The sugar will harden, giving you the delight of cracking through the surface and scooping out the creamy deliciousness beneath. If you are really professional, you can use a blow torch.
-      </p>
-
-      <h2>Super seeds</h2>
-
-      <p>
-      For a more savory meal option, cook your oats with water, a little salt, and sprinkle with toasted seeds. You can choose any that you enjoy, but pumpkin seeds, sesame, linseed, and sunflower seeds are especially good. Some supermarkets also sell seed blends to make the job even easier.
-      </p>
-
-      <h2>Deconstructed carrot cake</h2>
-
-      <p>
-      Cook your oats with grated carrots and a little sugar, then top with a sprinkle of cinnamon, chopped walnuts, and a dollop of sweetened cream cheese. If you don’t love this, there’s something wrong with your taste buds.
-      </p>
-
-      <h2>Dark chocolate</h2>
-
-      <p>
-      This low-sugar delight will meet all of those chocolate cravings and is the perfect dessert. Add a spoonful of cocoa to your oatmeal as it cooks, then top with a few squares of dark chocolate. As it melts, simply swirl into the bowl as artfully as you can. If you are really decadent, a squirt of whipped cream will add further delights.
-      </p>
+    value: "<p>It is vegan, gluten-free, low in fat, high in fiber, and can even lower cholesterol - but oatmeal is boring, right? Well, before you write off that boring jar of oats, you might want to take inspiration from our topping ideas that will take your oatmeal from bland to creatively delicious in just a few minutes.</p>\r\n\r\n<p>Call it oatmeal, porridge, hot cereal, or just plain oats, it is loved the world over; but recently, the humble oat is getting a funky makeover. Long gone are the days of stodgy breakfast bowls of thick gloop, because oats are getting served up as a delicious meal that can suit any time of the day. Trendy build-your-own oatmeal bars are popping up, and they are providing the ultimate oatmeal experience. Diners can choose their oats to be made with milk or water and then go to town with their choice of favorite toppings - sweet, savory, or even spicy.</p>\r\n\r\n<p>It sounds great, doesn’t it? So before you close the cupboard door on that bland-looking jar of oats, we think you should try some of these scrumptious topping ideas to inspire your very own oatmeal makeover.</p>\r\n\r\n<h2>Soaked dried fruit</h2>\r\n\r\n<p>Sometimes plain dried fruit can be a bit chewy and harsh when combined with creamy oats. But if you simply soak your dried fruit in orange juice overnight, they develop a tang, and they swell up, making them softer and even more delicious. Plus the splash of color can really brighten your day.</p>\r\n\r\n<h2>Porridge crème brûlée</h2>\r\n\r\n<p>So simple - but why has no one thought of it before? Put your cooked oatmeal into a ramekin, sprinkle with sugar, and pop under the grill. The sugar will harden, giving you the delight of cracking through the surface and scooping out the creamy deliciousness beneath. If you are really professional, you can use a blow torch.</p>\r\n\r\n<h2>Super seeds</h2>\r\n\r\n<p>For a more savory meal option, cook your oats with water, a little salt, and sprinkle with toasted seeds. You can choose any that you enjoy, but pumpkin seeds, sesame, linseed, and sunflower seeds are especially good. Some supermarkets also sell seed blends to make the job even easier.</p>\r\n\r\n<h2>Deconstructed carrot cake</h2>\r\n\r\n<p>Cook your oats with grated carrots and a little sugar, then top with a sprinkle of cinnamon, chopped walnuts, and a dollop of sweetened cream cheese. If you don’t love this, there’s something wrong with your taste buds.</p>\r\n\r\n<h2>Dark chocolate</h2>\r\n\r\n<p>This low-sugar delight will meet all of those chocolate cravings and is the perfect dessert. Add a spoonful of cocoa to your oatmeal as it cooks, then top with a few squares of dark chocolate. As it melts, simply swirl into the bowl as artfully as you can. If you are really decadent, a squirt of whipped cream will add further delights.</p>\r\n"
     format: basic_html
     processed: |
-      <p>
-      It is vegan, gluten-free, low in fat, high in fiber, and can even lower cholesterol - but oatmeal is boring, right? Well, before you write off that boring jar of oats, you might want to take inspiration from our topping ideas that will take your oatmeal from bland to creatively delicious in just a few minutes.
-      </p>
-      <p>
-      Call it oatmeal, porridge, hot cereal, or just plain oats, it is loved the world over; but recently, the humble oat is getting a funky makeover. Long gone are the days of stodgy breakfast bowls of thick gloop, because oats are getting served up as a delicious meal that can suit any time of the day. Trendy build-your-own oatmeal bars are popping up, and they are providing the ultimate oatmeal experience. Diners can choose their oats to be made with milk or water and then go to town with their choice of favorite toppings - sweet, savory, or even spicy.
-      </p>
-      <p>
-      It sounds great, doesn’t it? So before you close the cupboard door on that bland-looking jar of oats, we think you should try some of these scrumptious topping ideas to inspire your very own oatmeal makeover.
-      </p>
+      <p>It is vegan, gluten-free, low in fat, high in fiber, and can even lower cholesterol - but oatmeal is boring, right? Well, before you write off that boring jar of oats, you might want to take inspiration from our topping ideas that will take your oatmeal from bland to creatively delicious in just a few minutes.</p>
+      <p>Call it oatmeal, porridge, hot cereal, or just plain oats, it is loved the world over; but recently, the humble oat is getting a funky makeover. Long gone are the days of stodgy breakfast bowls of thick gloop, because oats are getting served up as a delicious meal that can suit any time of the day. Trendy build-your-own oatmeal bars are popping up, and they are providing the ultimate oatmeal experience. Diners can choose their oats to be made with milk or water and then go to town with their choice of favorite toppings - sweet, savory, or even spicy.</p>
+      <p>It sounds great, doesn’t it? So before you close the cupboard door on that bland-looking jar of oats, we think you should try some of these scrumptious topping ideas to inspire your very own oatmeal makeover.</p>
       <h2>Soaked dried fruit</h2>
-      <p>
-      Sometimes plain dried fruit can be a bit chewy and harsh when combined with creamy oats. But if you simply soak your dried fruit in orange juice overnight, they develop a tang, and they swell up, making them softer and even more delicious. Plus the splash of color can really brighten your day.
-      </p>
+      <p>Sometimes plain dried fruit can be a bit chewy and harsh when combined with creamy oats. But if you simply soak your dried fruit in orange juice overnight, they develop a tang, and they swell up, making them softer and even more delicious. Plus the splash of color can really brighten your day.</p>
       <h2>Porridge crème brûlée</h2>
-      <p>
-      So simple - but why has no one thought of it before? Put your cooked oatmeal into a ramekin, sprinkle with sugar, and pop under the grill. The sugar will harden, giving you the delight of cracking through the surface and scooping out the creamy deliciousness beneath. If you are really professional, you can use a blow torch.
-      </p>
+      <p>So simple - but why has no one thought of it before? Put your cooked oatmeal into a ramekin, sprinkle with sugar, and pop under the grill. The sugar will harden, giving you the delight of cracking through the surface and scooping out the creamy deliciousness beneath. If you are really professional, you can use a blow torch.</p>
       <h2>Super seeds</h2>
-      <p>
-      For a more savory meal option, cook your oats with water, a little salt, and sprinkle with toasted seeds. You can choose any that you enjoy, but pumpkin seeds, sesame, linseed, and sunflower seeds are especially good. Some supermarkets also sell seed blends to make the job even easier.
-      </p>
+      <p>For a more savory meal option, cook your oats with water, a little salt, and sprinkle with toasted seeds. You can choose any that you enjoy, but pumpkin seeds, sesame, linseed, and sunflower seeds are especially good. Some supermarkets also sell seed blends to make the job even easier.</p>
       <h2>Deconstructed carrot cake</h2>
-      <p>
-      Cook your oats with grated carrots and a little sugar, then top with a sprinkle of cinnamon, chopped walnuts, and a dollop of sweetened cream cheese. If you don’t love this, there’s something wrong with your taste buds.
-      </p>
+      <p>Cook your oats with grated carrots and a little sugar, then top with a sprinkle of cinnamon, chopped walnuts, and a dollop of sweetened cream cheese. If you don’t love this, there’s something wrong with your taste buds.</p>
       <h2>Dark chocolate</h2>
-      <p>
-      This low-sugar delight will meet all of those chocolate cravings and is the perfect dessert. Add a spoonful of cocoa to your oatmeal as it cooks, then top with a few squares of dark chocolate. As it melts, simply swirl into the bowl as artfully as you can. If you are really decadent, a squirt of whipped cream will add further delights.
-      </p>
-    summary: null
+      <p>This low-sugar delight will meet all of those chocolate cravings and is the perfect dessert. Add a spoonful of cocoa to your oatmeal as it cooks, then top with a few squares of dark chocolate. As it melts, simply swirl into the bowl as artfully as you can. If you are really decadent, a squirt of whipped cream will add further delights.</p>
+    summary: ''
     summary_processed: ''
+field_image: {  }
 field_media_image:
   -
     target_type: media
@@ -172,6 +114,7 @@ _content_sync:
   entity_type: node
   entity_dependencies:
     user:
+      - user.user.5c373917-748e-4271-981c-ed6f0f14a9a9
       - user.user.a47332cb-6edc-47e6-bca1-a3be9a8aff41
     media:
       - media.image.dd0671a9-79cd-4fab-8c24-d9bcaa49ff23
@@ -196,15 +139,13 @@ _translations:
         target_uuid: f1e89877-8495-4ce2-8b34-98670e127297
     revision_timestamp:
       -
-        value: '2022-11-04T08:14:26+00:00'
+        value: '2022-11-22T06:15:07+00:00'
         format: 'Y-m-d\TH:i:sP'
     revision_uid:
       -
         target_type: user
-        target_uuid: a47332cb-6edc-47e6-bca1-a3be9a8aff41
-    revision_log:
-      -
-        value: 'Updated the <em class="placeholder">Title</em> field through in-place editing.'
+        target_uuid: 5c373917-748e-4271-981c-ed6f0f14a9a9
+    revision_log: {  }
     status:
       -
         value: true
@@ -232,24 +173,24 @@ _translations:
     default_langcode:
       -
         value: false
-    revision_translation_affected:
-      -
-        value: true
+    revision_translation_affected: {  }
     moderation_state:
       -
         value: published
     content_translations:
       -
         label: 'Give your oatmeal the ultimate makeover test'
-        path: /en/articles/give-your-oatmeal-the-ultimate-makeover
+        path: /en/articles/give-your-oatmeal-ultimate-makeover-test
         langcode: en
       -
         label: 'Dale a tu avena el cambio de imagen definitivo'
-        path: /es/articles/dale-a-tu-avena-el-cambio-de-imagen-definitivo
+        path: /es/node/32
         langcode: es
     path:
       -
-        alias: /articles/dale-a-tu-avena-el-cambio-de-imagen-definitivo
+        alias: null
+        pid: null
+        langcode: es
     content_translation_source:
       -
         value: und
@@ -289,6 +230,7 @@ _translations:
           <p>Esta delicia baja en azúcar cumplirá con todos esos antojos de chocolate y es el postre perfecto. Agregue una cucharada de cacao a su avena mientras se cocina, luego cubra con unos cuadrados de chocolate oscuro. A medida que se derrite, simplemente gíralos en el tazón tan ingeniosamente como puedas. Si eres realmente decadente, un chorrito de crema batida agregará más placeres.</p>
         summary: null
         summary_processed: ''
+    field_image: {  }
     field_media_image:
       -
         target_type: media
@@ -313,6 +255,7 @@ _translations:
       entity_type: node
       entity_dependencies:
         user:
+          - user.user.5c373917-748e-4271-981c-ed6f0f14a9a9
           - user.user.a47332cb-6edc-47e6-bca1-a3be9a8aff41
         media:
           - media.image.dd0671a9-79cd-4fab-8c24-d9bcaa49ff23

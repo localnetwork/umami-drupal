@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: bb5d7959-bb51-4f00-b907-dddb019fd8ef
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/32
+alias:
+  -
+    value: /articles/give-your-oatmeal-ultimate-makeover-test
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

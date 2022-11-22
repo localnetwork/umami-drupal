@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1ceda07f-cfa9-4875-a198-56f7372c987c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/53
+alias:
+  -
+    value: /recipes/local
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

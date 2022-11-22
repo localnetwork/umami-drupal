@@ -11,7 +11,7 @@ type:
     target_uuid: fed5ec89-5eb9-4fe6-ac6e-4bde8a936732
 revision_timestamp:
   -
-    value: '2022-11-18T08:55:17+00:00'
+    value: '2022-11-22T06:15:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_uid:
   -
@@ -34,7 +34,7 @@ created:
     format: 'Y-m-d\TH:i:sP'
 changed:
   -
-    value: '2022-11-18T08:55:17+00:00'
+    value: '2022-11-22T06:15:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   -
@@ -54,13 +54,11 @@ moderation_state:
 content_translations:
   -
     label: Local
-    path: /en/node/53
+    path: /en/recipes/local
     langcode: en
 path:
   -
-    alias: null
-    pid: null
-    langcode: en
+    alias: /recipes/local
 content_translation_source:
   -
     value: und

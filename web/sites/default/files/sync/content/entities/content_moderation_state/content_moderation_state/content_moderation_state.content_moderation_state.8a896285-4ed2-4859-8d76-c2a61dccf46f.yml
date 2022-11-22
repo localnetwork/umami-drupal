@@ -25,11 +25,13 @@ content_entity_id:
     value: 32
 content_entity_revision_id:
   -
-    value: 67
+    value: 115
 default_langcode:
   -
     value: true
-revision_translation_affected: {  }
+revision_translation_affected:
+  -
+    value: true
 _content_sync:
   entity_type: content_moderation_state
   entity_dependencies:
@@ -64,13 +66,11 @@ _translations:
         value: 32
     content_entity_revision_id:
       -
-        value: 67
+        value: 115
     default_langcode:
       -
         value: false
-    revision_translation_affected:
-      -
-        value: true
+    revision_translation_affected: {  }
     _content_sync:
       entity_type: content_moderation_state
       entity_dependencies:
