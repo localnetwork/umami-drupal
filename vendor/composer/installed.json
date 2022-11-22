@@ -2136,6 +2136,57 @@
             "install-path": "../../web/modules/contrib/jsonapi_hypermedia"
         },
         {
+            "name": "drupal/jsonapi_include",
+            "version": "1.5.0",
+            "version_normalized": "1.5.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/jsonapi_include.git",
+                "reference": "8.x-1.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/jsonapi_include-8.x-1.5.zip",
+                "reference": "8.x-1.5",
+                "shasum": "74a5c7d0cd0ed07bcf3204e0de5258007cb54403"
+            },
+            "require": {
+                "drupal/core": "^8 || ^9"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "8.x-1.5",
+                    "datestamp": "1659750821",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "installation-source": "dist",
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "zipme_hkt",
+                    "homepage": "https://www.drupal.org/user/368236"
+                }
+            ],
+            "description": "Add include data to json output",
+            "homepage": "https://www.drupal.org/project/jsonapi_include",
+            "keywords": [
+                "Drupal"
+            ],
+            "support": {
+                "source": "http://cgit.drupalcode.org/jsonapi_include",
+                "issues": "https://www.drupal.org/project/issues/jsonapi_include"
+            },
+            "install-path": "../../web/modules/contrib/jsonapi_include"
+        },
+        {
             "name": "drupal/jsonapi_menu_items",
             "version": "1.2.3",
             "version_normalized": "1.2.3.0",
@@ -2446,6 +2497,61 @@
                 "documentation": "https://www.drupal.org/docs/8/modules/pathauto"
             },
             "install-path": "../../web/modules/contrib/pathauto"
+        },
+        {
+            "name": "drupal/redirect",
+            "version": "1.8.0",
+            "version_normalized": "1.8.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/redirect.git",
+                "reference": "8.x-1.8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/redirect-8.x-1.8.zip",
+                "reference": "8.x-1.8",
+                "shasum": "a7a440423434472ff7115ae69df01553f763f839"
+            },
+            "require": {
+                "drupal/core": "^9.2 || ^10"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "8.x-1.8",
+                    "datestamp": "1661806955",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "installation-source": "dist",
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Berdir",
+                    "homepage": "https://www.drupal.org/user/214652"
+                },
+                {
+                    "name": "Dave Reid",
+                    "homepage": "https://www.drupal.org/user/53892"
+                },
+                {
+                    "name": "pifagor",
+                    "homepage": "https://www.drupal.org/user/2375692"
+                }
+            ],
+            "description": "Allows users to redirect from old URLs to new URLs.",
+            "homepage": "https://www.drupal.org/project/redirect",
+            "support": {
+                "source": "https://git.drupalcode.org/project/redirect"
+            },
+            "install-path": "../../web/modules/contrib/redirect"
         },
         {
             "name": "drupal/simple_oauth",

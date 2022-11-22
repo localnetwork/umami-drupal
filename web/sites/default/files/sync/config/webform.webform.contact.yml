@@ -23,9 +23,6 @@ elements: |-
     '#type': textfield
     '#required': true
     '#default_value': '[current-user:display-name]'
-  te:
-    '#type': textfield
-    '#title': test
   email:
     '#title': 'Your Email'
     '#type': email

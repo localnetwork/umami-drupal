@@ -12,5 +12,5 @@ id: node.page
 site_resolver: site_selector
 configuration:
   sites:
-    localhost: localhost
+    test: test
   field_name: {  }

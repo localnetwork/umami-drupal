@@ -1,9 +1,0 @@
-uuid: 6f2b41a1-163c-4a74-91c9-972b0773e470
-langcode: en
-status: true
-dependencies: {  }
-id: localhost
-label: Localhost
-base_url: 'http://localhost:3000'
-preview_url: 'http://umami.local/api/preview'
-preview_secret: ''
