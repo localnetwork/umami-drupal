@@ -1,0 +1,60 @@
+diff --git a/redirect.permissions.yml b/redirect.permissions.yml
+index 8596ee1ca4beeab3911da236b69463e0a105e566..9acbced0b96197a587f6735fe8ed986dd454f7ee 100644
+--- a/redirect.permissions.yml
++++ b/redirect.permissions.yml
+@@ -2,3 +2,5 @@ administer redirects:
+   title: 'Administer individual URL redirections'
+ administer redirect settings:
+   title: 'Administer global URL redirection settings'
++view redirects:
++  title: 'View individual URL redirections'
+diff --git a/src/Entity/Redirect.php b/src/Entity/Redirect.php
+index cb5d4c56dd54f1bd12c3af2d4a5260133d590806..e321ec28d82bfb437ade3cbddf7d8f62809890f6 100644
+--- a/src/Entity/Redirect.php
++++ b/src/Entity/Redirect.php
+@@ -4,10 +4,12 @@
+ 
+ use Drupal\Component\Utility\Crypt;
+ use Drupal\Component\Utility\UrlHelper;
++use Drupal\Core\Access\AccessResult;
+ use Drupal\Core\Entity\ContentEntityBase;
+ use Drupal\Core\Entity\EntityStorageInterface;
+ use Drupal\Core\Entity\EntityTypeInterface;
+ use Drupal\Core\Field\BaseFieldDefinition;
++use Drupal\Core\Session\AccountInterface;
+ use Drupal\link\LinkItemInterface;
+ 
+ /**
+@@ -90,6 +92,32 @@ public function preSave(EntityStorageInterface $storage_controller) {
+     $this->set('hash', Redirect::generateHash($this->redirect_source->path, (array) $this->redirect_source->query, $this->get('language')->value));
+   }
+ 
++  /**
++   * {@inheritdoc}
++   */
++  public function access($operation, AccountInterface $account = NULL, $return_as_object = FALSE) {
++    if (!$account) {
++      $account = \Drupal::currentUser();
++    }
++
++    if ($operation == 'view' && $account->hasPermission('view redirects')) {
++      $result = AccessResult::allowed()->cachePerPermissions();
++      return $return_as_object ? $result : $result->isAllowed();
++    }
++    if ($account->hasPermission('administer redirects')) {
++      $result = AccessResult::allowed()->cachePerPermissions();
++      return $return_as_object ? $result : $result->isAllowed();
++    }
++
++    if ($operation == 'view') {
++      $result = AccessResult::forbidden("The 'view redirects' permission is required.")->cachePerPermissions();
++      return $return_as_object ? $result : $result->isAllowed();
++    }
++
++    $result = AccessResult::forbidden("The 'administer redirects' permission is required.")->cachePerPermissions();
++    return $return_as_object ? $result : $result->isAllowed();
++  }
++
+   /**
+    * Sets the redirect language.
+    *
